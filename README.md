@@ -16,10 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/0566131-am/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/0566131-am/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/0566131-am/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/0566131-am/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/0566131-am/leetcode/tree/master/0867-new-21-game) |
+## Counting
+|  |
+| ------- |
+| [1510-find-lucky-integer-in-an-array](https://github.com/0566131-am/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->
