@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/0566131-am/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/0566131-am/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/0566131-am/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [0498-diagonal-traverse](https://github.com/0566131-am/leetcode/tree/master/0498-diagonal-traverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/0566131-am/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0498-diagonal-traverse](https://github.com/0566131-am/leetcode/tree/master/0498-diagonal-traverse) |
 ## Database
 |  |
 | ------- |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/0566131-am/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+## Simulation
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/0566131-am/leetcode/tree/master/0498-diagonal-traverse) |
 <!---LeetCode Topics End-->
