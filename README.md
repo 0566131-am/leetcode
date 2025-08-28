@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/0566131-am/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [0498-diagonal-traverse](https://github.com/0566131-am/leetcode/tree/master/0498-diagonal-traverse) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/0566131-am/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3748-sort-matrix-by-diagonals](https://github.com/0566131-am/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/0566131-am/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/0566131-am/leetcode/tree/master/0498-diagonal-traverse) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/0566131-am/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3748-sort-matrix-by-diagonals](https://github.com/0566131-am/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Database
 |  |
 | ------- |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/0566131-am/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+## Sorting
+|  |
+| ------- |
+| [3748-sort-matrix-by-diagonals](https://github.com/0566131-am/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 <!---LeetCode Topics End-->
