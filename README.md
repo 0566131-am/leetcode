@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/0566131-am/leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/0566131-am/leetcode/tree/master/0342-power-of-four) |
 | [0190-reverse-bits](https://github.com/0566131-am/leetcode/tree/master/0190-reverse-bits) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/0566131-am/leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Array
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3748-sort-matrix-by-diagonals](https://github.com/0566131-am/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/0566131-am/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [0733-flood-fill](https://github.com/0566131-am/leetcode/tree/master/0733-flood-fill) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/0566131-am/leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/0566131-am/leetcode/tree/master/1448-maximum-69-number) |
 | [0867-new-21-game](https://github.com/0566131-am/leetcode/tree/master/0867-new-21-game) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/0566131-am/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/0566131-am/leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Recursion
 |  |
 | ------- |
