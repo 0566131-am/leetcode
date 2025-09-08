@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/0566131-am/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/0566131-am/leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/0566131-am/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/0566131-am/leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 ## Recursion
 |  |
 | ------- |
