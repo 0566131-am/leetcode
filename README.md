@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/0566131-am/leetcode/tree/master/0867-new-21-game) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/0566131-am/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/0566131-am/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/0566131-am/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/0566131-am/leetcode/tree/master/0498-diagonal-traverse) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/0566131-am/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Memoization
 |  |
 | ------- |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/0566131-am/leetcode/tree/master/0008-string-to-integer-atoi) |
+## Queue
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/0566131-am/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 <!---LeetCode Topics End-->
