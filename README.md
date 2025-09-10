@@ -29,11 +29,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/0566131-am/leetcode/tree/master/0733-flood-fill) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/0566131-am/leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/0566131-am/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/0566131-am/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 ## Hash Table
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/0566131-am/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/0566131-am/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/0566131-am/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 ## Matrix
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/0566131-am/leetcode/tree/master/1448-maximum-69-number) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/0566131-am/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 ## Divide and Conquer
 |  |
 | ------- |
