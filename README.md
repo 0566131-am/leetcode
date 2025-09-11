@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3748-sort-matrix-by-diagonals](https://github.com/0566131-am/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/0566131-am/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [2887-sort-vowels-in-a-string](https://github.com/0566131-am/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Geometry
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/0566131-am/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0851-goat-latin](https://github.com/0566131-am/leetcode/tree/master/0851-goat-latin) |
+| [2887-sort-vowels-in-a-string](https://github.com/0566131-am/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Queue
 |  |
 | ------- |
