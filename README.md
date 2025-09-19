@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/0566131-am/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/0566131-am/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/0566131-am/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [0010-regular-expression-matching](https://github.com/0566131-am/leetcode/tree/master/0010-regular-expression-matching) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/0566131-am/leetcode/tree/master/0342-power-of-four) |
+| [0010-regular-expression-matching](https://github.com/0566131-am/leetcode/tree/master/0010-regular-expression-matching) |
 ## Greedy
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/0566131-am/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0851-goat-latin](https://github.com/0566131-am/leetcode/tree/master/0851-goat-latin) |
 | [2887-sort-vowels-in-a-string](https://github.com/0566131-am/leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [0010-regular-expression-matching](https://github.com/0566131-am/leetcode/tree/master/0010-regular-expression-matching) |
 ## Queue
 |  |
 | ------- |
