@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/0566131-am/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/0566131-am/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/0566131-am/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/0566131-am/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 ## Matrix
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0851-goat-latin](https://github.com/0566131-am/leetcode/tree/master/0851-goat-latin) |
 | [2887-sort-vowels-in-a-string](https://github.com/0566131-am/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [0010-regular-expression-matching](https://github.com/0566131-am/leetcode/tree/master/0010-regular-expression-matching) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/0566131-am/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 ## Queue
 |  |
 | ------- |
