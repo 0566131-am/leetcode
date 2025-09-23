@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/0566131-am/leetcode/tree/master/0342-power-of-four) |
 | [0190-reverse-bits](https://github.com/0566131-am/leetcode/tree/master/0190-reverse-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/0566131-am/leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/0566131-am/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Array
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/0566131-am/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/0566131-am/leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [0292-nim-game](https://github.com/0566131-am/leetcode/tree/master/0292-nim-game) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/0566131-am/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Recursion
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/0566131-am/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [0010-regular-expression-matching](https://github.com/0566131-am/leetcode/tree/master/0010-regular-expression-matching) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/0566131-am/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/0566131-am/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Queue
 |  |
 | ------- |
