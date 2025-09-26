@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/0566131-am/leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [0292-nim-game](https://github.com/0566131-am/leetcode/tree/master/0292-nim-game) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/0566131-am/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0492-construct-the-rectangle](https://github.com/0566131-am/leetcode/tree/master/0492-construct-the-rectangle) |
 ## Recursion
 |  |
 | ------- |
