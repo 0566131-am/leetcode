@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/0566131-am/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/0566131-am/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [0010-regular-expression-matching](https://github.com/0566131-am/leetcode/tree/master/0010-regular-expression-matching) |
+| [1086-divisor-game](https://github.com/0566131-am/leetcode/tree/master/1086-divisor-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/0566131-am/leetcode/tree/master/0292-nim-game) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/0566131-am/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0492-construct-the-rectangle](https://github.com/0566131-am/leetcode/tree/master/0492-construct-the-rectangle) |
+| [1086-divisor-game](https://github.com/0566131-am/leetcode/tree/master/1086-divisor-game) |
 ## Recursion
 |  |
 | ------- |
@@ -152,8 +154,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/0566131-am/leetcode/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/0566131-am/leetcode/tree/master/1086-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/0566131-am/leetcode/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/0566131-am/leetcode/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
