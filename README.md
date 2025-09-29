@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/0566131-am/leetcode/tree/master/0190-reverse-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/0566131-am/leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/0566131-am/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0067-add-binary](https://github.com/0566131-am/leetcode/tree/master/0067-add-binary) |
 ## Array
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/0566131-am/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0492-construct-the-rectangle](https://github.com/0566131-am/leetcode/tree/master/0492-construct-the-rectangle) |
 | [1086-divisor-game](https://github.com/0566131-am/leetcode/tree/master/1086-divisor-game) |
+| [0067-add-binary](https://github.com/0566131-am/leetcode/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0498-diagonal-traverse](https://github.com/0566131-am/leetcode/tree/master/0498-diagonal-traverse) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/0566131-am/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [0067-add-binary](https://github.com/0566131-am/leetcode/tree/master/0067-add-binary) |
 ## Memoization
 |  |
 | ------- |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/0566131-am/leetcode/tree/master/0010-regular-expression-matching) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/0566131-am/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/0566131-am/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0067-add-binary](https://github.com/0566131-am/leetcode/tree/master/0067-add-binary) |
 ## Queue
 |  |
 | ------- |
