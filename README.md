@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/0566131-am/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/0566131-am/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/0566131-am/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [0012-integer-to-roman](https://github.com/0566131-am/leetcode/tree/master/0012-integer-to-roman) |
 ## Matrix
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/0566131-am/leetcode/tree/master/1086-divisor-game) |
 | [0067-add-binary](https://github.com/0566131-am/leetcode/tree/master/0067-add-binary) |
 | [1260-day-of-the-year](https://github.com/0566131-am/leetcode/tree/master/1260-day-of-the-year) |
+| [0012-integer-to-roman](https://github.com/0566131-am/leetcode/tree/master/0012-integer-to-roman) |
 ## Recursion
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/0566131-am/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0067-add-binary](https://github.com/0566131-am/leetcode/tree/master/0067-add-binary) |
 | [1260-day-of-the-year](https://github.com/0566131-am/leetcode/tree/master/1260-day-of-the-year) |
+| [0012-integer-to-roman](https://github.com/0566131-am/leetcode/tree/master/0012-integer-to-roman) |
 ## Queue
 |  |
 | ------- |
