@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-day-of-the-year](https://github.com/0566131-am/leetcode/tree/master/1260-day-of-the-year) |
 | [0012-integer-to-roman](https://github.com/0566131-am/leetcode/tree/master/0012-integer-to-roman) |
 | [0441-arranging-coins](https://github.com/0566131-am/leetcode/tree/master/0441-arranging-coins) |
+| [3567-convert-date-to-binary](https://github.com/0566131-am/leetcode/tree/master/3567-convert-date-to-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/0566131-am/leetcode/tree/master/0067-add-binary) |
 | [1260-day-of-the-year](https://github.com/0566131-am/leetcode/tree/master/1260-day-of-the-year) |
 | [0012-integer-to-roman](https://github.com/0566131-am/leetcode/tree/master/0012-integer-to-roman) |
+| [3567-convert-date-to-binary](https://github.com/0566131-am/leetcode/tree/master/3567-convert-date-to-binary) |
 ## Queue
 |  |
 | ------- |
