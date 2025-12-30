@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/0566131-am/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [0035-search-insert-position](https://github.com/0566131-am/leetcode/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/0566131-am/leetcode/tree/master/0088-merge-sorted-array) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/0566131-am/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/0566131-am/leetcode/tree/master/0441-arranging-coins) |
 | [3567-convert-date-to-binary](https://github.com/0566131-am/leetcode/tree/master/3567-convert-date-to-binary) |
 | [0728-self-dividing-numbers](https://github.com/0566131-am/leetcode/tree/master/0728-self-dividing-numbers) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/0566131-am/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Recursion
 |  |
 | ------- |
