@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/0566131-am/leetcode/tree/master/0012-integer-to-roman) |
 | [0441-arranging-coins](https://github.com/0566131-am/leetcode/tree/master/0441-arranging-coins) |
 | [3567-convert-date-to-binary](https://github.com/0566131-am/leetcode/tree/master/3567-convert-date-to-binary) |
+| [0728-self-dividing-numbers](https://github.com/0566131-am/leetcode/tree/master/0728-self-dividing-numbers) |
 ## Recursion
 |  |
 | ------- |
