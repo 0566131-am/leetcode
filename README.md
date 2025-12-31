@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/0566131-am/leetcode/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/0566131-am/leetcode/tree/master/0088-merge-sorted-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/0566131-am/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [0217-contains-duplicate](https://github.com/0566131-am/leetcode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/0566131-am/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/0566131-am/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [0012-integer-to-roman](https://github.com/0566131-am/leetcode/tree/master/0012-integer-to-roman) |
+| [0217-contains-duplicate](https://github.com/0566131-am/leetcode/tree/master/0217-contains-duplicate) |
 ## Matrix
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/0566131-am/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [2887-sort-vowels-in-a-string](https://github.com/0566131-am/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/0566131-am/leetcode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/0566131-am/leetcode/tree/master/0217-contains-duplicate) |
 ## Geometry
 |  |
 | ------- |
