@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/0566131-am/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [0217-contains-duplicate](https://github.com/0566131-am/leetcode/tree/master/0217-contains-duplicate) |
 | [1672-richest-customer-wealth](https://github.com/0566131-am/leetcode/tree/master/1672-richest-customer-wealth) |
+| [1480-running-sum-of-1d-array](https://github.com/0566131-am/leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -190,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/0566131-am/leetcode/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/0566131-am/leetcode/tree/master/1086-divisor-game) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/0566131-am/leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
