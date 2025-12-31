@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/0566131-am/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0067-add-binary](https://github.com/0566131-am/leetcode/tree/master/0067-add-binary) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/0566131-am/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [0136-single-number](https://github.com/0566131-am/leetcode/tree/master/0136-single-number) |
 ## Array
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/0566131-am/leetcode/tree/master/0217-contains-duplicate) |
 | [1672-richest-customer-wealth](https://github.com/0566131-am/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1480-running-sum-of-1d-array](https://github.com/0566131-am/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [0136-single-number](https://github.com/0566131-am/leetcode/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
