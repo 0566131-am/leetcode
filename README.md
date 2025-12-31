@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/0566131-am/leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/0566131-am/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0067-add-binary](https://github.com/0566131-am/leetcode/tree/master/0067-add-binary) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/0566131-am/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Array
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-convert-date-to-binary](https://github.com/0566131-am/leetcode/tree/master/3567-convert-date-to-binary) |
 | [0728-self-dividing-numbers](https://github.com/0566131-am/leetcode/tree/master/0728-self-dividing-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/0566131-am/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/0566131-am/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
 |  |
 | ------- |
