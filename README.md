@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/0566131-am/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [0012-integer-to-roman](https://github.com/0566131-am/leetcode/tree/master/0012-integer-to-roman) |
 | [0217-contains-duplicate](https://github.com/0566131-am/leetcode/tree/master/0217-contains-duplicate) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/0566131-am/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Matrix
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-day-of-the-year](https://github.com/0566131-am/leetcode/tree/master/1260-day-of-the-year) |
 | [0012-integer-to-roman](https://github.com/0566131-am/leetcode/tree/master/0012-integer-to-roman) |
 | [3567-convert-date-to-binary](https://github.com/0566131-am/leetcode/tree/master/3567-convert-date-to-binary) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/0566131-am/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Queue
 |  |
 | ------- |
