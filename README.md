@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2408-number-of-people-aware-of-a-secret](https://github.com/0566131-am/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [0010-regular-expression-matching](https://github.com/0566131-am/leetcode/tree/master/0010-regular-expression-matching) |
 | [1086-divisor-game](https://github.com/0566131-am/leetcode/tree/master/1086-divisor-game) |
+| [0070-climbing-stairs](https://github.com/0566131-am/leetcode/tree/master/0070-climbing-stairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/0566131-am/leetcode/tree/master/0728-self-dividing-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/0566131-am/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/0566131-am/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [0070-climbing-stairs](https://github.com/0566131-am/leetcode/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/0566131-am/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [0070-climbing-stairs](https://github.com/0566131-am/leetcode/tree/master/0070-climbing-stairs) |
 ## Sorting
 |  |
 | ------- |
