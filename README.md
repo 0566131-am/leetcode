@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/0566131-am/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1480-running-sum-of-1d-array](https://github.com/0566131-am/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [0136-single-number](https://github.com/0566131-am/leetcode/tree/master/0136-single-number) |
+| [0561-array-partition](https://github.com/0566131-am/leetcode/tree/master/0561-array-partition) |
 ## Hash Table
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1448-maximum-69-number](https://github.com/0566131-am/leetcode/tree/master/1448-maximum-69-number) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/0566131-am/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [0561-array-partition](https://github.com/0566131-am/leetcode/tree/master/0561-array-partition) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/0566131-am/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/0566131-am/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/0566131-am/leetcode/tree/master/0217-contains-duplicate) |
+| [0561-array-partition](https://github.com/0566131-am/leetcode/tree/master/0561-array-partition) |
 ## Geometry
 |  |
 | ------- |
@@ -206,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/0566131-am/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/0566131-am/leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
