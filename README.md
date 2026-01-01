@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/0566131-am/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [0771-jewels-and-stones](https://github.com/0566131-am/leetcode/tree/master/0771-jewels-and-stones) |
 | [0344-reverse-string](https://github.com/0566131-am/leetcode/tree/master/0344-reverse-string) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/0566131-am/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Queue
 |  |
 | ------- |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/0566131-am/leetcode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/0566131-am/leetcode/tree/master/0344-reverse-string) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/0566131-am/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Brainteaser
 |  |
 | ------- |
@@ -200,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/0566131-am/leetcode/tree/master/1480-running-sum-of-1d-array) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/0566131-am/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
