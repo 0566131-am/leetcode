@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0342-power-of-four](https://github.com/0566131-am/leetcode/tree/master/0342-power-of-four) |
 | [0010-regular-expression-matching](https://github.com/0566131-am/leetcode/tree/master/0010-regular-expression-matching) |
+| [0206-reverse-linked-list](https://github.com/0566131-am/leetcode/tree/master/0206-reverse-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -214,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/0566131-am/leetcode/tree/master/0561-array-partition) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/0566131-am/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
