@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/0566131-am/leetcode/tree/master/0010-regular-expression-matching) |
 | [1086-divisor-game](https://github.com/0566131-am/leetcode/tree/master/1086-divisor-game) |
 | [0070-climbing-stairs](https://github.com/0566131-am/leetcode/tree/master/0070-climbing-stairs) |
+| [0053-maximum-subarray](https://github.com/0566131-am/leetcode/tree/master/0053-maximum-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/0566131-am/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [0136-single-number](https://github.com/0566131-am/leetcode/tree/master/0136-single-number) |
 | [0561-array-partition](https://github.com/0566131-am/leetcode/tree/master/0561-array-partition) |
+| [0053-maximum-subarray](https://github.com/0566131-am/leetcode/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/0566131-am/leetcode/tree/master/0190-reverse-bits) |
+| [0053-maximum-subarray](https://github.com/0566131-am/leetcode/tree/master/0053-maximum-subarray) |
 ## Sliding Window
 |  |
 | ------- |
