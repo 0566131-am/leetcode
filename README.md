@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/0566131-am/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [0070-climbing-stairs](https://github.com/0566131-am/leetcode/tree/master/0070-climbing-stairs) |
 | [0002-add-two-numbers](https://github.com/0566131-am/leetcode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/0566131-am/leetcode/tree/master/0007-reverse-integer) |
 ## Recursion
 |  |
 | ------- |
