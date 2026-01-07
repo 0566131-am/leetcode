@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/0566131-am/leetcode/tree/master/1086-divisor-game) |
 | [0070-climbing-stairs](https://github.com/0566131-am/leetcode/tree/master/0070-climbing-stairs) |
 | [0053-maximum-subarray](https://github.com/0566131-am/leetcode/tree/master/0053-maximum-subarray) |
+| [0005-longest-palindromic-substring](https://github.com/0566131-am/leetcode/tree/master/0005-longest-palindromic-substring) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/0566131-am/leetcode/tree/master/0344-reverse-string) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/0566131-am/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0709-to-lower-case](https://github.com/0566131-am/leetcode/tree/master/0709-to-lower-case) |
+| [0005-longest-palindromic-substring](https://github.com/0566131-am/leetcode/tree/master/0005-longest-palindromic-substring) |
 ## Queue
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/0566131-am/leetcode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/0566131-am/leetcode/tree/master/0344-reverse-string) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/0566131-am/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0005-longest-palindromic-substring](https://github.com/0566131-am/leetcode/tree/master/0005-longest-palindromic-substring) |
 ## Brainteaser
 |  |
 | ------- |
