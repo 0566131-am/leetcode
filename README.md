@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/0566131-am/leetcode/tree/master/0035-search-insert-position) |
 | [0441-arranging-coins](https://github.com/0566131-am/leetcode/tree/master/0441-arranging-coins) |
+| [0278-first-bad-version](https://github.com/0566131-am/leetcode/tree/master/0278-first-bad-version) |
 ## Two Pointers
 |  |
 | ------- |
@@ -244,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/0566131-am/leetcode/tree/master/0100-same-tree) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/0566131-am/leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
