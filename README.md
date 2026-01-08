@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/0566131-am/leetcode/tree/master/0070-climbing-stairs) |
 | [0053-maximum-subarray](https://github.com/0566131-am/leetcode/tree/master/0053-maximum-subarray) |
 | [0005-longest-palindromic-substring](https://github.com/0566131-am/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/0566131-am/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/0566131-am/leetcode/tree/master/0136-single-number) |
 | [0561-array-partition](https://github.com/0566131-am/leetcode/tree/master/0561-array-partition) |
 | [0053-maximum-subarray](https://github.com/0566131-am/leetcode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/0566131-am/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
 | ------- |
