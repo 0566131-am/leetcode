@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/0566131-am/leetcode/tree/master/0561-array-partition) |
 | [0053-maximum-subarray](https://github.com/0566131-am/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/0566131-am/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0283-move-zeroes](https://github.com/0566131-am/leetcode/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/0566131-am/leetcode/tree/master/0344-reverse-string) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/0566131-am/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0005-longest-palindromic-substring](https://github.com/0566131-am/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0283-move-zeroes](https://github.com/0566131-am/leetcode/tree/master/0283-move-zeroes) |
 ## Brainteaser
 |  |
 | ------- |
