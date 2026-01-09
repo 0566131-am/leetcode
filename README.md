@@ -167,11 +167,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0733-flood-fill](https://github.com/0566131-am/leetcode/tree/master/0733-flood-fill) |
 | [0100-same-tree](https://github.com/0566131-am/leetcode/tree/master/0100-same-tree) |
+| [0226-invert-binary-tree](https://github.com/0566131-am/leetcode/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/0566131-am/leetcode/tree/master/0733-flood-fill) |
 | [0100-same-tree](https://github.com/0566131-am/leetcode/tree/master/0100-same-tree) |
+| [0226-invert-binary-tree](https://github.com/0566131-am/leetcode/tree/master/0226-invert-binary-tree) |
 ## String
 |  |
 | ------- |
@@ -241,10 +243,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/0566131-am/leetcode/tree/master/0100-same-tree) |
+| [0226-invert-binary-tree](https://github.com/0566131-am/leetcode/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/0566131-am/leetcode/tree/master/0100-same-tree) |
+| [0226-invert-binary-tree](https://github.com/0566131-am/leetcode/tree/master/0226-invert-binary-tree) |
 ## Interactive
 |  |
 | ------- |
