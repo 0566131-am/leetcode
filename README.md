@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/0566131-am/leetcode/tree/master/0217-contains-duplicate) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/0566131-am/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [0771-jewels-and-stones](https://github.com/0566131-am/leetcode/tree/master/0771-jewels-and-stones) |
+| [0387-first-unique-character-in-a-string](https://github.com/0566131-am/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Matrix
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/0566131-am/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [0387-first-unique-character-in-a-string](https://github.com/0566131-am/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -197,10 +199,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/0566131-am/leetcode/tree/master/0709-to-lower-case) |
 | [0005-longest-palindromic-substring](https://github.com/0566131-am/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/0566131-am/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0387-first-unique-character-in-a-string](https://github.com/0566131-am/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/0566131-am/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [0387-first-unique-character-in-a-string](https://github.com/0566131-am/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
