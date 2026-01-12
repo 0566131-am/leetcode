@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/0566131-am/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/0566131-am/leetcode/tree/master/0283-move-zeroes) |
 | [0198-house-robber](https://github.com/0566131-am/leetcode/tree/master/0198-house-robber) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/0566131-am/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/0566131-am/leetcode/tree/master/0035-search-insert-position) |
 | [0441-arranging-coins](https://github.com/0566131-am/leetcode/tree/master/0441-arranging-coins) |
 | [0278-first-bad-version](https://github.com/0566131-am/leetcode/tree/master/0278-first-bad-version) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/0566131-am/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
