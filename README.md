@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/0566131-am/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/0566131-am/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/0566131-am/leetcode/tree/master/0198-house-robber) |
+| [0392-is-subsequence](https://github.com/0566131-am/leetcode/tree/master/0392-is-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/0566131-am/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0387-first-unique-character-in-a-string](https://github.com/0566131-am/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/0566131-am/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/0566131-am/leetcode/tree/master/0392-is-subsequence) |
 ## Queue
 |  |
 | ------- |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/0566131-am/leetcode/tree/master/0283-move-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/0566131-am/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0345-reverse-vowels-of-a-string](https://github.com/0566131-am/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/0566131-am/leetcode/tree/master/0392-is-subsequence) |
 ## Brainteaser
 |  |
 | ------- |
