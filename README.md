@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/0566131-am/leetcode/tree/master/0198-house-robber) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/0566131-am/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0001-two-sum](https://github.com/0566131-am/leetcode/tree/master/0001-two-sum) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/0566131-am/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
