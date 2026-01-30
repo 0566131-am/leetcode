@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/0566131-am/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0001-two-sum](https://github.com/0566131-am/leetcode/tree/master/0001-two-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/0566131-am/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [0075-sort-colors](https://github.com/0566131-am/leetcode/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/0566131-am/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/0566131-am/leetcode/tree/master/0217-contains-duplicate) |
 | [0561-array-partition](https://github.com/0566131-am/leetcode/tree/master/0561-array-partition) |
+| [0075-sort-colors](https://github.com/0566131-am/leetcode/tree/master/0075-sort-colors) |
 ## Geometry
 |  |
 | ------- |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/0566131-am/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0345-reverse-vowels-of-a-string](https://github.com/0566131-am/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/0566131-am/leetcode/tree/master/0392-is-subsequence) |
+| [0075-sort-colors](https://github.com/0566131-am/leetcode/tree/master/0075-sort-colors) |
 ## Brainteaser
 |  |
 | ------- |
