@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/0566131-am/leetcode/tree/master/0067-add-binary) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/0566131-am/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [0136-single-number](https://github.com/0566131-am/leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/0566131-am/leetcode/tree/master/0268-missing-number) |
 ## Array
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/0566131-am/leetcode/tree/master/0075-sort-colors) |
 | [0485-max-consecutive-ones](https://github.com/0566131-am/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/0566131-am/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0268-missing-number](https://github.com/0566131-am/leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/0566131-am/leetcode/tree/master/0771-jewels-and-stones) |
 | [0387-first-unique-character-in-a-string](https://github.com/0566131-am/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0001-two-sum](https://github.com/0566131-am/leetcode/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/0566131-am/leetcode/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/0566131-am/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/0566131-am/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/0566131-am/leetcode/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/0566131-am/leetcode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -168,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/0566131-am/leetcode/tree/master/0217-contains-duplicate) |
 | [0561-array-partition](https://github.com/0566131-am/leetcode/tree/master/0561-array-partition) |
 | [0075-sort-colors](https://github.com/0566131-am/leetcode/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/0566131-am/leetcode/tree/master/0268-missing-number) |
 ## Geometry
 |  |
 | ------- |
@@ -224,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/0566131-am/leetcode/tree/master/0441-arranging-coins) |
 | [0278-first-bad-version](https://github.com/0566131-am/leetcode/tree/master/0278-first-bad-version) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/0566131-am/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/0566131-am/leetcode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
