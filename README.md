@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/0566131-am/leetcode/tree/master/0001-two-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/0566131-am/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [0075-sort-colors](https://github.com/0566131-am/leetcode/tree/master/0075-sort-colors) |
+| [0485-max-consecutive-ones](https://github.com/0566131-am/leetcode/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
