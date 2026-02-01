@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/0566131-am/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [0075-sort-colors](https://github.com/0566131-am/leetcode/tree/master/0075-sort-colors) |
 | [0485-max-consecutive-ones](https://github.com/0566131-am/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/0566131-am/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/0566131-am/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/0566131-am/leetcode/tree/master/0392-is-subsequence) |
 | [0075-sort-colors](https://github.com/0566131-am/leetcode/tree/master/0075-sort-colors) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/0566131-am/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Brainteaser
 |  |
 | ------- |
