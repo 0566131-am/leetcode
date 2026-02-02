@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/0566131-am/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/0566131-am/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0268-missing-number](https://github.com/0566131-am/leetcode/tree/master/0268-missing-number) |
+| [0074-search-a-2d-matrix](https://github.com/0566131-am/leetcode/tree/master/0074-search-a-2d-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3748-sort-matrix-by-diagonals](https://github.com/0566131-am/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [0733-flood-fill](https://github.com/0566131-am/leetcode/tree/master/0733-flood-fill) |
 | [1672-richest-customer-wealth](https://github.com/0566131-am/leetcode/tree/master/1672-richest-customer-wealth) |
+| [0074-search-a-2d-matrix](https://github.com/0566131-am/leetcode/tree/master/0074-search-a-2d-matrix) |
 ## Database
 |  |
 | ------- |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/0566131-am/leetcode/tree/master/0278-first-bad-version) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/0566131-am/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/0566131-am/leetcode/tree/master/0268-missing-number) |
+| [0074-search-a-2d-matrix](https://github.com/0566131-am/leetcode/tree/master/0074-search-a-2d-matrix) |
 ## Two Pointers
 |  |
 | ------- |
