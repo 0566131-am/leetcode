@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/0566131-am/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0268-missing-number](https://github.com/0566131-am/leetcode/tree/master/0268-missing-number) |
 | [0074-search-a-2d-matrix](https://github.com/0566131-am/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0054-spiral-matrix](https://github.com/0566131-am/leetcode/tree/master/0054-spiral-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/0566131-am/leetcode/tree/master/0733-flood-fill) |
 | [1672-richest-customer-wealth](https://github.com/0566131-am/leetcode/tree/master/1672-richest-customer-wealth) |
 | [0074-search-a-2d-matrix](https://github.com/0566131-am/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0054-spiral-matrix](https://github.com/0566131-am/leetcode/tree/master/0054-spiral-matrix) |
 ## Database
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/0566131-am/leetcode/tree/master/0498-diagonal-traverse) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/0566131-am/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [0067-add-binary](https://github.com/0566131-am/leetcode/tree/master/0067-add-binary) |
+| [0054-spiral-matrix](https://github.com/0566131-am/leetcode/tree/master/0054-spiral-matrix) |
 ## Memoization
 |  |
 | ------- |
