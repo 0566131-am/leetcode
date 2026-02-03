@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/0566131-am/leetcode/tree/master/0268-missing-number) |
 | [0074-search-a-2d-matrix](https://github.com/0566131-am/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0054-spiral-matrix](https://github.com/0566131-am/leetcode/tree/master/0054-spiral-matrix) |
+| [0048-rotate-image](https://github.com/0566131-am/leetcode/tree/master/0048-rotate-image) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/0566131-am/leetcode/tree/master/1672-richest-customer-wealth) |
 | [0074-search-a-2d-matrix](https://github.com/0566131-am/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0054-spiral-matrix](https://github.com/0566131-am/leetcode/tree/master/0054-spiral-matrix) |
+| [0048-rotate-image](https://github.com/0566131-am/leetcode/tree/master/0048-rotate-image) |
 ## Database
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/0566131-am/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/0566131-am/leetcode/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/0566131-am/leetcode/tree/master/0268-missing-number) |
+| [0048-rotate-image](https://github.com/0566131-am/leetcode/tree/master/0048-rotate-image) |
 ## Recursion
 |  |
 | ------- |
