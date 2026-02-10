@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/0566131-am/leetcode/tree/master/0054-spiral-matrix) |
 | [0048-rotate-image](https://github.com/0566131-am/leetcode/tree/master/0048-rotate-image) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/0566131-am/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [0169-majority-element](https://github.com/0566131-am/leetcode/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/0566131-am/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0001-two-sum](https://github.com/0566131-am/leetcode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/0566131-am/leetcode/tree/master/0268-missing-number) |
+| [0169-majority-element](https://github.com/0566131-am/leetcode/tree/master/0169-majority-element) |
 ## Matrix
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/0566131-am/leetcode/tree/master/0190-reverse-bits) |
 | [0053-maximum-subarray](https://github.com/0566131-am/leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/0566131-am/leetcode/tree/master/0169-majority-element) |
 ## Sliding Window
 |  |
 | ------- |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/0566131-am/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [0387-first-unique-character-in-a-string](https://github.com/0566131-am/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0169-majority-element](https://github.com/0566131-am/leetcode/tree/master/0169-majority-element) |
 ## Simulation
 |  |
 | ------- |
@@ -183,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/0566131-am/leetcode/tree/master/0561-array-partition) |
 | [0075-sort-colors](https://github.com/0566131-am/leetcode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/0566131-am/leetcode/tree/master/0268-missing-number) |
+| [0169-majority-element](https://github.com/0566131-am/leetcode/tree/master/0169-majority-element) |
 ## Geometry
 |  |
 | ------- |
