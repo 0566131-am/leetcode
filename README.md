@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/0566131-am/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/0566131-am/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/0566131-am/leetcode/tree/master/0392-is-subsequence) |
+| [0006-zigzag-conversion](https://github.com/0566131-am/leetcode/tree/master/0006-zigzag-conversion) |
 ## Queue
 |  |
 | ------- |
