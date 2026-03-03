@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/0566131-am/leetcode/tree/master/0010-regular-expression-matching) |
 | [0206-reverse-linked-list](https://github.com/0566131-am/leetcode/tree/master/0206-reverse-linked-list) |
 | [0002-add-two-numbers](https://github.com/0566131-am/leetcode/tree/master/0002-add-two-numbers) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/0566131-am/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Greedy
 |  |
 | ------- |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/0566131-am/leetcode/tree/master/0067-add-binary) |
 | [0054-spiral-matrix](https://github.com/0566131-am/leetcode/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/0566131-am/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/0566131-am/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Memoization
 |  |
 | ------- |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/0566131-am/leetcode/tree/master/0392-is-subsequence) |
 | [0006-zigzag-conversion](https://github.com/0566131-am/leetcode/tree/master/0006-zigzag-conversion) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/0566131-am/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/0566131-am/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Queue
 |  |
 | ------- |
