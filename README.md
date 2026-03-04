@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/0566131-am/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/0566131-am/leetcode/tree/master/0704-binary-search) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/0566131-am/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/0566131-am/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/0566131-am/leetcode/tree/master/0054-spiral-matrix) |
 | [0048-rotate-image](https://github.com/0566131-am/leetcode/tree/master/0048-rotate-image) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/0566131-am/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/0566131-am/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Database
 |  |
 | ------- |
