@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/0566131-am/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/0566131-am/leetcode/tree/master/0162-find-peak-element) |
 | [1980-find-unique-binary-string](https://github.com/0566131-am/leetcode/tree/master/1980-find-unique-binary-string) |
+| [0014-longest-common-prefix](https://github.com/0566131-am/leetcode/tree/master/0014-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/0566131-am/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1980-find-unique-binary-string](https://github.com/0566131-am/leetcode/tree/master/1980-find-unique-binary-string) |
 | [1903-largest-odd-number-in-string](https://github.com/0566131-am/leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [0014-longest-common-prefix](https://github.com/0566131-am/leetcode/tree/master/0014-longest-common-prefix) |
 ## Queue
 |  |
 | ------- |
@@ -338,4 +340,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1980-find-unique-binary-string](https://github.com/0566131-am/leetcode/tree/master/1980-find-unique-binary-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/0566131-am/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
