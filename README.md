@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/0566131-am/leetcode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/0566131-am/leetcode/tree/master/0392-is-subsequence) |
 | [0118-pascals-triangle](https://github.com/0566131-am/leetcode/tree/master/0118-pascals-triangle) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/0566131-am/leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/0566131-am/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/0566131-am/leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## String Matching
 |  |
 | ------- |
