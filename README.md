@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/0566131-am/leetcode/tree/master/1980-find-unique-binary-string) |
 | [1903-largest-odd-number-in-string](https://github.com/0566131-am/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [0014-longest-common-prefix](https://github.com/0566131-am/leetcode/tree/master/0014-longest-common-prefix) |
+| [0796-rotate-string](https://github.com/0566131-am/leetcode/tree/master/0796-rotate-string) |
 ## Queue
 |  |
 | ------- |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/0566131-am/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/0566131-am/leetcode/tree/master/0796-rotate-string) |
 ## Counting Sort
 |  |
 | ------- |
