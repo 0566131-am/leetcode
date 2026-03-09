@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/0566131-am/leetcode/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/0566131-am/leetcode/tree/master/0268-missing-number) |
 | [0048-rotate-image](https://github.com/0566131-am/leetcode/tree/master/0048-rotate-image) |
+| [1903-largest-odd-number-in-string](https://github.com/0566131-am/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/0566131-am/leetcode/tree/master/0561-array-partition) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/0566131-am/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/0566131-am/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1903-largest-odd-number-in-string](https://github.com/0566131-am/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/0566131-am/leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/0566131-am/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1980-find-unique-binary-string](https://github.com/0566131-am/leetcode/tree/master/1980-find-unique-binary-string) |
+| [1903-largest-odd-number-in-string](https://github.com/0566131-am/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Queue
 |  |
 | ------- |
