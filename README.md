@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/0566131-am/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/0566131-am/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/0566131-am/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [1009-complement-of-base-10-integer](https://github.com/0566131-am/leetcode/tree/master/1009-complement-of-base-10-integer) |
 ## Array
 |  |
 | ------- |
