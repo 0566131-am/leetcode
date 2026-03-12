@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/0566131-am/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/0566131-am/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1903-largest-odd-number-in-string](https://github.com/0566131-am/leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/0566131-am/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/0566131-am/leetcode/tree/master/0704-binary-search) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/0566131-am/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/0566131-am/leetcode/tree/master/0162-find-peak-element) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/0566131-am/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Two Pointers
 |  |
 | ------- |
@@ -352,4 +354,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/0566131-am/leetcode/tree/master/0014-longest-common-prefix) |
+## Union-Find
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/0566131-am/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Graph Theory
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/0566131-am/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/0566131-am/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
