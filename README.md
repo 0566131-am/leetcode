@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/0566131-am/leetcode/tree/master/0162-find-peak-element) |
 | [1980-find-unique-binary-string](https://github.com/0566131-am/leetcode/tree/master/1980-find-unique-binary-string) |
 | [0014-longest-common-prefix](https://github.com/0566131-am/leetcode/tree/master/0014-longest-common-prefix) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/0566131-am/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/0566131-am/leetcode/tree/master/0268-missing-number) |
 | [0048-rotate-image](https://github.com/0566131-am/leetcode/tree/master/0048-rotate-image) |
 | [1903-largest-odd-number-in-string](https://github.com/0566131-am/leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/0566131-am/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Recursion
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/0566131-am/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1903-largest-odd-number-in-string](https://github.com/0566131-am/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/0566131-am/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/0566131-am/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/0566131-am/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/0566131-am/leetcode/tree/master/0162-find-peak-element) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/0566131-am/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/0566131-am/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -366,4 +370,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/0566131-am/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/0566131-am/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 <!---LeetCode Topics End-->
