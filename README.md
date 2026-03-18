@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/0566131-am/leetcode/tree/master/0014-longest-common-prefix) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/0566131-am/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/0566131-am/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/0566131-am/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/0566131-am/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/0566131-am/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/0566131-am/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/0566131-am/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Database
 |  |
 | ------- |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/0566131-am/leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/0566131-am/leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/0566131-am/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/0566131-am/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## String Matching
 |  |
 | ------- |
