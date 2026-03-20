@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/0566131-am/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/0566131-am/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/0566131-am/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/0566131-am/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/0566131-am/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/0566131-am/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/0566131-am/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/0566131-am/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Database
 |  |
 | ------- |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/0566131-am/leetcode/tree/master/0169-majority-element) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/0566131-am/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/0566131-am/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/0566131-am/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Geometry
 |  |
 | ------- |
