@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/0566131-am/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/0566131-am/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/0566131-am/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/0566131-am/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Hash Table
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/0566131-am/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/0566131-am/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/0566131-am/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/0566131-am/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Database
 |  |
 | ------- |
