@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/0566131-am/leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/0566131-am/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/0566131-am/leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/0566131-am/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/0566131-am/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/0566131-am/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/0566131-am/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/0566131-am/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/0566131-am/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/0566131-am/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/0566131-am/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/0566131-am/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 ## Database
 |  |
 | ------- |
