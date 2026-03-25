@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/0566131-am/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/0566131-am/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2906-construct-product-matrix](https://github.com/0566131-am/leetcode/tree/master/2906-construct-product-matrix) |
+| [3546-equal-sum-grid-partition-i](https://github.com/0566131-am/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/0566131-am/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/0566131-am/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2906-construct-product-matrix](https://github.com/0566131-am/leetcode/tree/master/2906-construct-product-matrix) |
+| [3546-equal-sum-grid-partition-i](https://github.com/0566131-am/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Database
 |  |
 | ------- |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/0566131-am/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/0566131-am/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/0566131-am/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/0566131-am/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [2906-construct-product-matrix](https://github.com/0566131-am/leetcode/tree/master/2906-construct-product-matrix) |
+| [3546-equal-sum-grid-partition-i](https://github.com/0566131-am/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 ## String Matching
 |  |
 | ------- |
