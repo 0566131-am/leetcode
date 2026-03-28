@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/0566131-am/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/0566131-am/leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/0566131-am/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [2573-find-the-string-with-lcp](https://github.com/0566131-am/leetcode/tree/master/2573-find-the-string-with-lcp) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/0566131-am/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/0566131-am/leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/0566131-am/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2573-find-the-string-with-lcp](https://github.com/0566131-am/leetcode/tree/master/2573-find-the-string-with-lcp) |
 ## Hash Table
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/0566131-am/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/0566131-am/leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/0566131-am/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2573-find-the-string-with-lcp](https://github.com/0566131-am/leetcode/tree/master/2573-find-the-string-with-lcp) |
 ## Database
 |  |
 | ------- |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/0566131-am/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/0566131-am/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/0566131-am/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2573-find-the-string-with-lcp](https://github.com/0566131-am/leetcode/tree/master/2573-find-the-string-with-lcp) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -306,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/0566131-am/leetcode/tree/master/0796-rotate-string) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/0566131-am/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/0566131-am/leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [2573-find-the-string-with-lcp](https://github.com/0566131-am/leetcode/tree/master/2573-find-the-string-with-lcp) |
 ## Queue
 |  |
 | ------- |
@@ -404,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/0566131-am/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [2573-find-the-string-with-lcp](https://github.com/0566131-am/leetcode/tree/master/2573-find-the-string-with-lcp) |
 ## Graph Theory
 |  |
 | ------- |
