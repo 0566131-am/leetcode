@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/0566131-am/leetcode/tree/master/1980-find-unique-binary-string) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/0566131-am/leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [0242-valid-anagram](https://github.com/0566131-am/leetcode/tree/master/0242-valid-anagram) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/0566131-am/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/0566131-am/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/0566131-am/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [0242-valid-anagram](https://github.com/0566131-am/leetcode/tree/master/0242-valid-anagram) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/0566131-am/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Geometry
 |  |
 | ------- |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/0566131-am/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/0566131-am/leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [0242-valid-anagram](https://github.com/0566131-am/leetcode/tree/master/0242-valid-anagram) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/0566131-am/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Queue
 |  |
 | ------- |
