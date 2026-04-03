@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/0566131-am/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2573-find-the-string-with-lcp](https://github.com/0566131-am/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/0566131-am/leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/0566131-am/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/0566131-am/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/0566131-am/leetcode/tree/master/2751-robot-collisions) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/0566131-am/leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/0566131-am/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Hash Table
 |  |
 | ------- |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/0566131-am/leetcode/tree/master/0242-valid-anagram) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/0566131-am/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2751-robot-collisions](https://github.com/0566131-am/leetcode/tree/master/2751-robot-collisions) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/0566131-am/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Geometry
 |  |
 | ------- |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/0566131-am/leetcode/tree/master/0162-find-peak-element) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/0566131-am/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/0566131-am/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/0566131-am/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Two Pointers
 |  |
 | ------- |
