@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/0566131-am/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/0566131-am/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2751-robot-collisions](https://github.com/0566131-am/leetcode/tree/master/2751-robot-collisions) |
+| [0657-robot-return-to-origin](https://github.com/0566131-am/leetcode/tree/master/0657-robot-return-to-origin) |
 ## Memoization
 |  |
 | ------- |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/0566131-am/leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [0242-valid-anagram](https://github.com/0566131-am/leetcode/tree/master/0242-valid-anagram) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/0566131-am/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [0657-robot-return-to-origin](https://github.com/0566131-am/leetcode/tree/master/0657-robot-return-to-origin) |
 ## Queue
 |  |
 | ------- |
