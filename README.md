@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/0566131-am/leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/0566131-am/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3488-closest-equal-element-queries](https://github.com/0566131-am/leetcode/tree/master/3488-closest-equal-element-queries) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/0566131-am/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Hash Table
 |  |
 | ------- |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/0566131-am/leetcode/tree/master/0242-valid-anagram) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/0566131-am/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [0657-robot-return-to-origin](https://github.com/0566131-am/leetcode/tree/master/0657-robot-return-to-origin) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/0566131-am/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Queue
 |  |
 | ------- |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/0566131-am/leetcode/tree/master/0014-longest-common-prefix) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/0566131-am/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Union-Find
 |  |
 | ------- |
