@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/0566131-am/leetcode/tree/master/3488-closest-equal-element-queries) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/0566131-am/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2615-sum-of-distances](https://github.com/0566131-am/leetcode/tree/master/2615-sum-of-distances) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/0566131-am/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/0566131-am/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2573-find-the-string-with-lcp](https://github.com/0566131-am/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/0566131-am/leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/0566131-am/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Database
 |  |
 | ------- |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/0566131-am/leetcode/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/0566131-am/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/0566131-am/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/0566131-am/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Recursion
 |  |
 | ------- |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/0566131-am/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2751-robot-collisions](https://github.com/0566131-am/leetcode/tree/master/2751-robot-collisions) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/0566131-am/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/0566131-am/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Geometry
 |  |
 | ------- |
