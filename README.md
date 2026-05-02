@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/0566131-am/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/0566131-am/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/0566131-am/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2485-find-the-pivot-integer](https://github.com/0566131-am/leetcode/tree/master/2485-find-the-pivot-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/0566131-am/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/0566131-am/leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [2615-sum-of-distances](https://github.com/0566131-am/leetcode/tree/master/2615-sum-of-distances) |
+| [2485-find-the-pivot-integer](https://github.com/0566131-am/leetcode/tree/master/2485-find-the-pivot-integer) |
 ## String Matching
 |  |
 | ------- |
