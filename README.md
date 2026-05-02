@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/0566131-am/leetcode/tree/master/2615-sum-of-distances) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/0566131-am/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [1929-concatenation-of-array](https://github.com/0566131-am/leetcode/tree/master/1929-concatenation-of-array) |
+| [1470-shuffle-the-array](https://github.com/0566131-am/leetcode/tree/master/1470-shuffle-the-array) |
 ## Hash Table
 |  |
 | ------- |
