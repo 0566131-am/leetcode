@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/0566131-am/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [1929-concatenation-of-array](https://github.com/0566131-am/leetcode/tree/master/1929-concatenation-of-array) |
 | [1470-shuffle-the-array](https://github.com/0566131-am/leetcode/tree/master/1470-shuffle-the-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/0566131-am/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/0566131-am/leetcode/tree/master/2751-robot-collisions) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/0566131-am/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/0566131-am/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/0566131-am/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Geometry
 |  |
 | ------- |
