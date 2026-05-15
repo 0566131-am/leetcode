@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/0566131-am/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/0566131-am/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2485-find-the-pivot-integer](https://github.com/0566131-am/leetcode/tree/master/2485-find-the-pivot-integer) |
+| [0263-ugly-number](https://github.com/0566131-am/leetcode/tree/master/0263-ugly-number) |
 ## Recursion
 |  |
 | ------- |
