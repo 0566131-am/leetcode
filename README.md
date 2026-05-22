@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/0566131-am/leetcode/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/0566131-am/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [0724-find-pivot-index](https://github.com/0566131-am/leetcode/tree/master/0724-find-pivot-index) |
+| [0643-maximum-average-subarray-i](https://github.com/0566131-am/leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/0566131-am/leetcode/tree/master/0867-new-21-game) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/0566131-am/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/0566131-am/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [0643-maximum-average-subarray-i](https://github.com/0566131-am/leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Probability and Statistics
 |  |
 | ------- |
