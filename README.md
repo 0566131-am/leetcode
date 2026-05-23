@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/0566131-am/leetcode/tree/master/0724-find-pivot-index) |
 | [0643-maximum-average-subarray-i](https://github.com/0566131-am/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0209-minimum-size-subarray-sum](https://github.com/0566131-am/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0189-rotate-array](https://github.com/0566131-am/leetcode/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/0566131-am/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2485-find-the-pivot-integer](https://github.com/0566131-am/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [0263-ugly-number](https://github.com/0566131-am/leetcode/tree/master/0263-ugly-number) |
+| [0189-rotate-array](https://github.com/0566131-am/leetcode/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/0566131-am/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/0566131-am/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [0287-find-the-duplicate-number](https://github.com/0566131-am/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0189-rotate-array](https://github.com/0566131-am/leetcode/tree/master/0189-rotate-array) |
 ## Brainteaser
 |  |
 | ------- |
