@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/0566131-am/leetcode/tree/master/0189-rotate-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/0566131-am/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [0867-transpose-matrix](https://github.com/0566131-am/leetcode/tree/master/0867-transpose-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/0566131-am/leetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/0566131-am/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/0566131-am/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [0867-transpose-matrix](https://github.com/0566131-am/leetcode/tree/master/0867-transpose-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/0566131-am/leetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Database
 |  |
 | ------- |
