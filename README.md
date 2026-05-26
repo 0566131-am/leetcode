@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/0566131-am/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [0867-transpose-matrix](https://github.com/0566131-am/leetcode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/0566131-am/leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [0204-count-primes](https://github.com/0566131-am/leetcode/tree/master/0204-count-primes) |
 ## Hash Table
 |  |
 | ------- |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/0566131-am/leetcode/tree/master/0263-ugly-number) |
 | [0189-rotate-array](https://github.com/0566131-am/leetcode/tree/master/0189-rotate-array) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/0566131-am/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [0204-count-primes](https://github.com/0566131-am/leetcode/tree/master/0204-count-primes) |
 ## Recursion
 |  |
 | ------- |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/0566131-am/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/0566131-am/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/0566131-am/leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
+| [0204-count-primes](https://github.com/0566131-am/leetcode/tree/master/0204-count-primes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -507,4 +510,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2751-robot-collisions](https://github.com/0566131-am/leetcode/tree/master/2751-robot-collisions) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/0566131-am/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
