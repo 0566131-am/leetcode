@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2485-find-the-pivot-integer](https://github.com/0566131-am/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [0263-ugly-number](https://github.com/0566131-am/leetcode/tree/master/0263-ugly-number) |
 | [0189-rotate-array](https://github.com/0566131-am/leetcode/tree/master/0189-rotate-array) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/0566131-am/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Recursion
 |  |
 | ------- |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/0566131-am/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2833-furthest-point-from-origin](https://github.com/0566131-am/leetcode/tree/master/2833-furthest-point-from-origin) |
 | [0443-string-compression](https://github.com/0566131-am/leetcode/tree/master/0443-string-compression) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/0566131-am/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Queue
 |  |
 | ------- |
