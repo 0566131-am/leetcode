@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/0566131-am/leetcode/tree/master/0189-rotate-array) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/0566131-am/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [0204-count-primes](https://github.com/0566131-am/leetcode/tree/master/0204-count-primes) |
+| [0050-powx-n](https://github.com/0566131-am/leetcode/tree/master/0050-powx-n) |
 ## Recursion
 |  |
 | ------- |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/0566131-am/leetcode/tree/master/0206-reverse-linked-list) |
 | [0002-add-two-numbers](https://github.com/0566131-am/leetcode/tree/master/0002-add-two-numbers) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/0566131-am/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [0050-powx-n](https://github.com/0566131-am/leetcode/tree/master/0050-powx-n) |
 ## Greedy
 |  |
 | ------- |
