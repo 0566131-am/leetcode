@@ -422,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/0566131-am/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0189-rotate-array](https://github.com/0566131-am/leetcode/tree/master/0189-rotate-array) |
 | [0443-string-compression](https://github.com/0566131-am/leetcode/tree/master/0443-string-compression) |
+| [0876-middle-of-the-linked-list](https://github.com/0566131-am/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Brainteaser
 |  |
 | ------- |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/0566131-am/leetcode/tree/master/0206-reverse-linked-list) |
 | [0002-add-two-numbers](https://github.com/0566131-am/leetcode/tree/master/0002-add-two-numbers) |
+| [0876-middle-of-the-linked-list](https://github.com/0566131-am/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Tree
 |  |
 | ------- |
