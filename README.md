@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/0566131-am/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [0050-powx-n](https://github.com/0566131-am/leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/0566131-am/leetcode/tree/master/0231-power-of-two) |
+| [0143-reorder-list](https://github.com/0566131-am/leetcode/tree/master/0143-reorder-list) |
 ## Greedy
 |  |
 | ------- |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/0566131-am/leetcode/tree/master/0141-linked-list-cycle) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/0566131-am/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [0086-partition-list](https://github.com/0566131-am/leetcode/tree/master/0086-partition-list) |
+| [0143-reorder-list](https://github.com/0566131-am/leetcode/tree/master/0143-reorder-list) |
 ## Brainteaser
 |  |
 | ------- |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/0566131-am/leetcode/tree/master/0141-linked-list-cycle) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/0566131-am/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [0086-partition-list](https://github.com/0566131-am/leetcode/tree/master/0086-partition-list) |
+| [0143-reorder-list](https://github.com/0566131-am/leetcode/tree/master/0143-reorder-list) |
 ## Tree
 |  |
 | ------- |
@@ -527,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2751-robot-collisions](https://github.com/0566131-am/leetcode/tree/master/2751-robot-collisions) |
+| [0143-reorder-list](https://github.com/0566131-am/leetcode/tree/master/0143-reorder-list) |
 ## Number Theory
 |  |
 | ------- |
