@@ -427,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/0566131-am/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/0566131-am/leetcode/tree/master/0141-linked-list-cycle) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/0566131-am/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [0086-partition-list](https://github.com/0566131-am/leetcode/tree/master/0086-partition-list) |
 ## Brainteaser
 |  |
 | ------- |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/0566131-am/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/0566131-am/leetcode/tree/master/0141-linked-list-cycle) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/0566131-am/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [0086-partition-list](https://github.com/0566131-am/leetcode/tree/master/0086-partition-list) |
 ## Tree
 |  |
 | ------- |
