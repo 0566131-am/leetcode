@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/0566131-am/leetcode/tree/master/3488-closest-equal-element-queries) |
 | [2615-sum-of-distances](https://github.com/0566131-am/leetcode/tree/master/2615-sum-of-distances) |
 | [0141-linked-list-cycle](https://github.com/0566131-am/leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/0566131-am/leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/0566131-am/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [0086-partition-list](https://github.com/0566131-am/leetcode/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/0566131-am/leetcode/tree/master/0143-reorder-list) |
+| [0142-linked-list-cycle-ii](https://github.com/0566131-am/leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Brainteaser
 |  |
 | ------- |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/0566131-am/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [0086-partition-list](https://github.com/0566131-am/leetcode/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/0566131-am/leetcode/tree/master/0143-reorder-list) |
+| [0142-linked-list-cycle-ii](https://github.com/0566131-am/leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Tree
 |  |
 | ------- |
