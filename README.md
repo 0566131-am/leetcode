@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/0566131-am/leetcode/tree/master/2833-furthest-point-from-origin) |
 | [0443-string-compression](https://github.com/0566131-am/leetcode/tree/master/0443-string-compression) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/0566131-am/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [0125-valid-palindrome](https://github.com/0566131-am/leetcode/tree/master/0125-valid-palindrome) |
 ## Queue
 |  |
 | ------- |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/0566131-am/leetcode/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/0566131-am/leetcode/tree/master/0143-reorder-list) |
 | [0142-linked-list-cycle-ii](https://github.com/0566131-am/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0125-valid-palindrome](https://github.com/0566131-am/leetcode/tree/master/0125-valid-palindrome) |
 ## Brainteaser
 |  |
 | ------- |
