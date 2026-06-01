@@ -400,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/0566131-am/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [0387-first-unique-character-in-a-string](https://github.com/0566131-am/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0225-implement-stack-using-queues](https://github.com/0566131-am/leetcode/tree/master/0225-implement-stack-using-queues) |
 ## Binary Search
 |  |
 | ------- |
@@ -539,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/0566131-am/leetcode/tree/master/1622-fancy-sequence) |
+| [0225-implement-stack-using-queues](https://github.com/0566131-am/leetcode/tree/master/0225-implement-stack-using-queues) |
 ## Segment Tree
 |  |
 | ------- |
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2751-robot-collisions](https://github.com/0566131-am/leetcode/tree/master/2751-robot-collisions) |
 | [0143-reorder-list](https://github.com/0566131-am/leetcode/tree/master/0143-reorder-list) |
+| [0225-implement-stack-using-queues](https://github.com/0566131-am/leetcode/tree/master/0225-implement-stack-using-queues) |
 ## Number Theory
 |  |
 | ------- |
