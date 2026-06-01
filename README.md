@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/0566131-am/leetcode/tree/master/0231-power-of-two) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/0566131-am/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/0566131-am/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [0461-hamming-distance](https://github.com/0566131-am/leetcode/tree/master/0461-hamming-distance) |
 ## Array
 |  |
 | ------- |
