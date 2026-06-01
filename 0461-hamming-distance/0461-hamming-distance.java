@@ -1,6 +1,7 @@
 class Solution {
     public int hammingDistance(int x, int y) {
-        return Integer.bitCount(x^y);
+        int xor=x^y;
+        return Integer.bitCount(xor);
         
     }
 }
