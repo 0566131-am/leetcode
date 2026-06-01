@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1009-complement-of-base-10-integer](https://github.com/0566131-am/leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [0231-power-of-two](https://github.com/0566131-am/leetcode/tree/master/0231-power-of-two) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/0566131-am/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/0566131-am/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Array
 |  |
 | ------- |
