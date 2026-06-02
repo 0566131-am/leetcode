@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/0566131-am/leetcode/tree/master/0204-count-primes) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/0566131-am/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [0907-sum-of-subarray-minimums](https://github.com/0566131-am/leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [0084-largest-rectangle-in-histogram](https://github.com/0566131-am/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 ## Hash Table
 |  |
 | ------- |
@@ -554,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/0566131-am/leetcode/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/0566131-am/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0907-sum-of-subarray-minimums](https://github.com/0566131-am/leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [0084-largest-rectangle-in-histogram](https://github.com/0566131-am/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 ## Number Theory
 |  |
 | ------- |
@@ -562,4 +564,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0907-sum-of-subarray-minimums](https://github.com/0566131-am/leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [0084-largest-rectangle-in-histogram](https://github.com/0566131-am/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
