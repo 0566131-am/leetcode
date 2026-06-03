@@ -24,10 +24,10 @@ class Solution {
             nse[i] = stack.isEmpty() ? n : stack.peek();
             stack.push(i);
         }
-        for (int i = 0; i < n; i++) {
-            int width = nse[i] - pse[i] - 1;
-            int area = heights[i] * width;
-            maxArea = Math.max(maxArea, area);
+        for (int i=0;i<n;i++) {
+            int width=nse[i]-pse[i]- 1;
+            int area=heights[i]*width;
+            maxArea=Math.max(maxArea,area);
         }
         
         return maxArea;
