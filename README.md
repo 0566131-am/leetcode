@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/0566131-am/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [0907-sum-of-subarray-minimums](https://github.com/0566131-am/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0084-largest-rectangle-in-histogram](https://github.com/0566131-am/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0739-daily-temperatures](https://github.com/0566131-am/leetcode/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/0566131-am/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0084-largest-rectangle-in-histogram](https://github.com/0566131-am/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/0566131-am/leetcode/tree/master/0402-remove-k-digits) |
+| [0739-daily-temperatures](https://github.com/0566131-am/leetcode/tree/master/0739-daily-temperatures) |
 ## Number Theory
 |  |
 | ------- |
@@ -569,4 +571,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/0566131-am/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0084-largest-rectangle-in-histogram](https://github.com/0566131-am/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/0566131-am/leetcode/tree/master/0402-remove-k-digits) |
+| [0739-daily-temperatures](https://github.com/0566131-am/leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
