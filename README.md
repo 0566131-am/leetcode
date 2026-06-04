@@ -408,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/0566131-am/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0225-implement-stack-using-queues](https://github.com/0566131-am/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0933-number-of-recent-calls](https://github.com/0566131-am/leetcode/tree/master/0933-number-of-recent-calls) |
+| [0232-implement-queue-using-stacks](https://github.com/0566131-am/leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Binary Search
 |  |
 | ------- |
@@ -549,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/0566131-am/leetcode/tree/master/1622-fancy-sequence) |
 | [0225-implement-stack-using-queues](https://github.com/0566131-am/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0933-number-of-recent-calls](https://github.com/0566131-am/leetcode/tree/master/0933-number-of-recent-calls) |
+| [0232-implement-queue-using-stacks](https://github.com/0566131-am/leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Segment Tree
 |  |
 | ------- |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/0566131-am/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/0566131-am/leetcode/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/0566131-am/leetcode/tree/master/0739-daily-temperatures) |
+| [0232-implement-queue-using-stacks](https://github.com/0566131-am/leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Number Theory
 |  |
 | ------- |
