@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/0566131-am/leetcode/tree/master/0733-flood-fill) |
 | [0100-same-tree](https://github.com/0566131-am/leetcode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/0566131-am/leetcode/tree/master/0226-invert-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/0566131-am/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -510,11 +511,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/0566131-am/leetcode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/0566131-am/leetcode/tree/master/0226-invert-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/0566131-am/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/0566131-am/leetcode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/0566131-am/leetcode/tree/master/0226-invert-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/0566131-am/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Interactive
 |  |
 | ------- |
@@ -570,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/0566131-am/leetcode/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/0566131-am/leetcode/tree/master/0739-daily-temperatures) |
 | [0232-implement-queue-using-stacks](https://github.com/0566131-am/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0145-binary-tree-postorder-traversal](https://github.com/0566131-am/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Number Theory
 |  |
 | ------- |
