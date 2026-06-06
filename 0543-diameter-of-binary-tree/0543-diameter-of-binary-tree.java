@@ -27,7 +27,6 @@ class Solution {
   int rh=getHeight(node.right);
   int cd=lh+rh;
   dia=Math.max(dia,cd);
-  return Math.max(lh,rh)+1;
-    
+  return Math.max(lh,rh)+1;    
     }
 }
