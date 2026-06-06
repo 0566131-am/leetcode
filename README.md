@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/0566131-am/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [0509-fibonacci-number](https://github.com/0566131-am/leetcode/tree/master/0509-fibonacci-number) |
 | [0907-sum-of-subarray-minimums](https://github.com/0566131-am/leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/0566131-am/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/0566131-am/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/0566131-am/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0112-path-sum](https://github.com/0566131-am/leetcode/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/0566131-am/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/0566131-am/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/0566131-am/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0112-path-sum](https://github.com/0566131-am/leetcode/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/0566131-am/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -536,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/0566131-am/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/0566131-am/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0112-path-sum](https://github.com/0566131-am/leetcode/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/0566131-am/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Interactive
 |  |
 | ------- |
