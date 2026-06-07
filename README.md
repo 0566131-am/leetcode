@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/0566131-am/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0112-path-sum](https://github.com/0566131-am/leetcode/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/0566131-am/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0110-balanced-binary-tree](https://github.com/0566131-am/leetcode/tree/master/0110-balanced-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -528,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/0566131-am/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0112-path-sum](https://github.com/0566131-am/leetcode/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/0566131-am/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0110-balanced-binary-tree](https://github.com/0566131-am/leetcode/tree/master/0110-balanced-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/0566131-am/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0112-path-sum](https://github.com/0566131-am/leetcode/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/0566131-am/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0110-balanced-binary-tree](https://github.com/0566131-am/leetcode/tree/master/0110-balanced-binary-tree) |
 ## Interactive
 |  |
 | ------- |
