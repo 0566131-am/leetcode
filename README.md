@@ -546,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/0566131-am/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/0566131-am/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/0566131-am/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0450-delete-node-in-a-bst](https://github.com/0566131-am/leetcode/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/0566131-am/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/0566131-am/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/0566131-am/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0450-delete-node-in-a-bst](https://github.com/0566131-am/leetcode/tree/master/0450-delete-node-in-a-bst) |
 ## Interactive
 |  |
 | ------- |
@@ -646,4 +648,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/0566131-am/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/0566131-am/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/0566131-am/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0450-delete-node-in-a-bst](https://github.com/0566131-am/leetcode/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
