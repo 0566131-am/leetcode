@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/0566131-am/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/0566131-am/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0098-validate-binary-search-tree](https://github.com/0566131-am/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/0566131-am/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -549,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/0566131-am/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0450-delete-node-in-a-bst](https://github.com/0566131-am/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0098-validate-binary-search-tree](https://github.com/0566131-am/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/0566131-am/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -570,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/0566131-am/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0450-delete-node-in-a-bst](https://github.com/0566131-am/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0098-validate-binary-search-tree](https://github.com/0566131-am/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/0566131-am/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Interactive
 |  |
 | ------- |
@@ -653,4 +656,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/0566131-am/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0450-delete-node-in-a-bst](https://github.com/0566131-am/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0098-validate-binary-search-tree](https://github.com/0566131-am/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/0566131-am/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
