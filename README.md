@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/0566131-am/leetcode/tree/master/2615-sum-of-distances) |
 | [0141-linked-list-cycle](https://github.com/0566131-am/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/0566131-am/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/0566131-am/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/0566131-am/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/0566131-am/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/0566131-am/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/0566131-am/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Geometry
 |  |
 | ------- |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/0566131-am/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0101-symmetric-tree](https://github.com/0566131-am/leetcode/tree/master/0101-symmetric-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/0566131-am/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/0566131-am/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/0566131-am/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/0566131-am/leetcode/tree/master/0112-path-sum) |
 | [0101-symmetric-tree](https://github.com/0566131-am/leetcode/tree/master/0101-symmetric-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/0566131-am/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## String
 |  |
 | ------- |
@@ -536,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/0566131-am/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0101-symmetric-tree](https://github.com/0566131-am/leetcode/tree/master/0101-symmetric-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/0566131-am/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/0566131-am/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -551,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/0566131-am/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0101-symmetric-tree](https://github.com/0566131-am/leetcode/tree/master/0101-symmetric-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/0566131-am/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/0566131-am/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Interactive
 |  |
 | ------- |
