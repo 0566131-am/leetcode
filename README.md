@@ -369,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/0566131-am/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/0566131-am/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/0566131-am/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/0566131-am/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/0566131-am/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/0566131-am/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/0566131-am/leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/0566131-am/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## String
 |  |
 | ------- |
@@ -599,10 +601,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/0566131-am/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [2573-find-the-string-with-lcp](https://github.com/0566131-am/leetcode/tree/master/2573-find-the-string-with-lcp) |
+| [1971-find-if-path-exists-in-graph](https://github.com/0566131-am/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/0566131-am/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [1971-find-if-path-exists-in-graph](https://github.com/0566131-am/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
