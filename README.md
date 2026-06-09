@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/0566131-am/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/0566131-am/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [0841-keys-and-rooms](https://github.com/0566131-am/leetcode/tree/master/0841-keys-and-rooms) |
+| [0547-number-of-provinces](https://github.com/0566131-am/leetcode/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/0566131-am/leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/0566131-am/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [0841-keys-and-rooms](https://github.com/0566131-am/leetcode/tree/master/0841-keys-and-rooms) |
+| [0547-number-of-provinces](https://github.com/0566131-am/leetcode/tree/master/0547-number-of-provinces) |
 ## String
 |  |
 | ------- |
@@ -604,12 +606,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/0566131-am/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [2573-find-the-string-with-lcp](https://github.com/0566131-am/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [1971-find-if-path-exists-in-graph](https://github.com/0566131-am/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [0547-number-of-provinces](https://github.com/0566131-am/leetcode/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/0566131-am/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [1971-find-if-path-exists-in-graph](https://github.com/0566131-am/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [0841-keys-and-rooms](https://github.com/0566131-am/leetcode/tree/master/0841-keys-and-rooms) |
+| [0547-number-of-provinces](https://github.com/0566131-am/leetcode/tree/master/0547-number-of-provinces) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
