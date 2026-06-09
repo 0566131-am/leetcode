@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/0566131-am/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/0566131-am/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/0566131-am/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [0841-keys-and-rooms](https://github.com/0566131-am/leetcode/tree/master/0841-keys-and-rooms) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/0566131-am/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/0566131-am/leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/0566131-am/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [0841-keys-and-rooms](https://github.com/0566131-am/leetcode/tree/master/0841-keys-and-rooms) |
 ## String
 |  |
 | ------- |
@@ -607,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/0566131-am/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [1971-find-if-path-exists-in-graph](https://github.com/0566131-am/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [0841-keys-and-rooms](https://github.com/0566131-am/leetcode/tree/master/0841-keys-and-rooms) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
