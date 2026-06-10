@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/0566131-am/leetcode/tree/master/0739-daily-temperatures) |
 | [0239-sliding-window-maximum](https://github.com/0566131-am/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0200-number-of-islands](https://github.com/0566131-am/leetcode/tree/master/0200-number-of-islands) |
+| [0130-surrounded-regions](https://github.com/0566131-am/leetcode/tree/master/0130-surrounded-regions) |
 ## Hash Table
 |  |
 | ------- |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/0566131-am/leetcode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/0566131-am/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [0200-number-of-islands](https://github.com/0566131-am/leetcode/tree/master/0200-number-of-islands) |
+| [0130-surrounded-regions](https://github.com/0566131-am/leetcode/tree/master/0130-surrounded-regions) |
 ## Database
 |  |
 | ------- |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/0566131-am/leetcode/tree/master/0841-keys-and-rooms) |
 | [0547-number-of-provinces](https://github.com/0566131-am/leetcode/tree/master/0547-number-of-provinces) |
 | [0200-number-of-islands](https://github.com/0566131-am/leetcode/tree/master/0200-number-of-islands) |
+| [0130-surrounded-regions](https://github.com/0566131-am/leetcode/tree/master/0130-surrounded-regions) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/0566131-am/leetcode/tree/master/0841-keys-and-rooms) |
 | [0547-number-of-provinces](https://github.com/0566131-am/leetcode/tree/master/0547-number-of-provinces) |
 | [0200-number-of-islands](https://github.com/0566131-am/leetcode/tree/master/0200-number-of-islands) |
+| [0130-surrounded-regions](https://github.com/0566131-am/leetcode/tree/master/0130-surrounded-regions) |
 ## String
 |  |
 | ------- |
@@ -612,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/0566131-am/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [0547-number-of-provinces](https://github.com/0566131-am/leetcode/tree/master/0547-number-of-provinces) |
 | [0200-number-of-islands](https://github.com/0566131-am/leetcode/tree/master/0200-number-of-islands) |
+| [0130-surrounded-regions](https://github.com/0566131-am/leetcode/tree/master/0130-surrounded-regions) |
 ## Graph Theory
 |  |
 | ------- |
