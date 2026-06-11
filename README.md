@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/0566131-am/leetcode/tree/master/0130-surrounded-regions) |
 | [0994-rotting-oranges](https://github.com/0566131-am/leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/0566131-am/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/0566131-am/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Hash Table
 |  |
 | ------- |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/0566131-am/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/0566131-am/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/0566131-am/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/0566131-am/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Two Pointers
 |  |
 | ------- |
