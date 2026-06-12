@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/0566131-am/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/0566131-am/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/0566131-am/leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
+| [0860-lemonade-change](https://github.com/0566131-am/leetcode/tree/master/0860-lemonade-change) |
 ## Hash Table
 |  |
 | ------- |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/0566131-am/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/0566131-am/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [0402-remove-k-digits](https://github.com/0566131-am/leetcode/tree/master/0402-remove-k-digits) |
+| [0860-lemonade-change](https://github.com/0566131-am/leetcode/tree/master/0860-lemonade-change) |
 ## Divide and Conquer
 |  |
 | ------- |
