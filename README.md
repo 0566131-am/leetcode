@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/0566131-am/leetcode/tree/master/0860-lemonade-change) |
 | [0455-assign-cookies](https://github.com/0566131-am/leetcode/tree/master/0455-assign-cookies) |
 | [1029-two-city-scheduling](https://github.com/0566131-am/leetcode/tree/master/1029-two-city-scheduling) |
+| [0881-boats-to-save-people](https://github.com/0566131-am/leetcode/tree/master/0881-boats-to-save-people) |
 ## Hash Table
 |  |
 | ------- |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/0566131-am/leetcode/tree/master/0860-lemonade-change) |
 | [0455-assign-cookies](https://github.com/0566131-am/leetcode/tree/master/0455-assign-cookies) |
 | [1029-two-city-scheduling](https://github.com/0566131-am/leetcode/tree/master/1029-two-city-scheduling) |
+| [0881-boats-to-save-people](https://github.com/0566131-am/leetcode/tree/master/0881-boats-to-save-people) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2251-number-of-flowers-in-full-bloom](https://github.com/0566131-am/leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [0455-assign-cookies](https://github.com/0566131-am/leetcode/tree/master/0455-assign-cookies) |
 | [1029-two-city-scheduling](https://github.com/0566131-am/leetcode/tree/master/1029-two-city-scheduling) |
+| [0881-boats-to-save-people](https://github.com/0566131-am/leetcode/tree/master/0881-boats-to-save-people) |
 ## Geometry
 |  |
 | ------- |
@@ -519,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/0566131-am/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0125-valid-palindrome](https://github.com/0566131-am/leetcode/tree/master/0125-valid-palindrome) |
 | [0455-assign-cookies](https://github.com/0566131-am/leetcode/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/0566131-am/leetcode/tree/master/0881-boats-to-save-people) |
 ## Brainteaser
 |  |
 | ------- |
