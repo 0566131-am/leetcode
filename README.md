@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/0566131-am/leetcode/tree/master/1029-two-city-scheduling) |
 | [0881-boats-to-save-people](https://github.com/0566131-am/leetcode/tree/master/0881-boats-to-save-people) |
 | [3838-weighted-word-mapping](https://github.com/0566131-am/leetcode/tree/master/3838-weighted-word-mapping) |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/0566131-am/leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 ## Hash Table
 |  |
 | ------- |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/0566131-am/leetcode/tree/master/0455-assign-cookies) |
 | [1029-two-city-scheduling](https://github.com/0566131-am/leetcode/tree/master/1029-two-city-scheduling) |
 | [0881-boats-to-save-people](https://github.com/0566131-am/leetcode/tree/master/0881-boats-to-save-people) |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/0566131-am/leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/0566131-am/leetcode/tree/master/0455-assign-cookies) |
 | [1029-two-city-scheduling](https://github.com/0566131-am/leetcode/tree/master/1029-two-city-scheduling) |
 | [0881-boats-to-save-people](https://github.com/0566131-am/leetcode/tree/master/0881-boats-to-save-people) |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/0566131-am/leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 ## Geometry
 |  |
 | ------- |
@@ -554,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/0566131-am/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/0566131-am/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/0566131-am/leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/0566131-am/leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 ## String Matching
 |  |
 | ------- |
