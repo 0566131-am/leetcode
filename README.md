@@ -529,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/0566131-am/leetcode/tree/master/0125-valid-palindrome) |
 | [0455-assign-cookies](https://github.com/0566131-am/leetcode/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/0566131-am/leetcode/tree/master/0881-boats-to-save-people) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/0566131-am/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Brainteaser
 |  |
 | ------- |
@@ -579,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/0566131-am/leetcode/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/0566131-am/leetcode/tree/master/0143-reorder-list) |
 | [0142-linked-list-cycle-ii](https://github.com/0566131-am/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/0566131-am/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -690,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/0566131-am/leetcode/tree/master/0739-daily-temperatures) |
 | [0232-implement-queue-using-stacks](https://github.com/0566131-am/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0145-binary-tree-postorder-traversal](https://github.com/0566131-am/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/0566131-am/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Number Theory
 |  |
 | ------- |
