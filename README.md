@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/0566131-am/leetcode/tree/master/0509-fibonacci-number) |
 | [0907-sum-of-subarray-minimums](https://github.com/0566131-am/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/0566131-am/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0435-non-overlapping-intervals](https://github.com/0566131-am/leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/0566131-am/leetcode/tree/master/0881-boats-to-save-people) |
 | [3838-weighted-word-mapping](https://github.com/0566131-am/leetcode/tree/master/3838-weighted-word-mapping) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/0566131-am/leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
+| [0435-non-overlapping-intervals](https://github.com/0566131-am/leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/0566131-am/leetcode/tree/master/1029-two-city-scheduling) |
 | [0881-boats-to-save-people](https://github.com/0566131-am/leetcode/tree/master/0881-boats-to-save-people) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/0566131-am/leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
+| [0435-non-overlapping-intervals](https://github.com/0566131-am/leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/0566131-am/leetcode/tree/master/1029-two-city-scheduling) |
 | [0881-boats-to-save-people](https://github.com/0566131-am/leetcode/tree/master/0881-boats-to-save-people) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/0566131-am/leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
+| [0435-non-overlapping-intervals](https://github.com/0566131-am/leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Geometry
 |  |
 | ------- |
