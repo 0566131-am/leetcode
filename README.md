@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3838-weighted-word-mapping](https://github.com/0566131-am/leetcode/tree/master/3838-weighted-word-mapping) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/0566131-am/leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [0435-non-overlapping-intervals](https://github.com/0566131-am/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0517-super-washing-machines](https://github.com/0566131-am/leetcode/tree/master/0517-super-washing-machines) |
 ## Hash Table
 |  |
 | ------- |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/0566131-am/leetcode/tree/master/0881-boats-to-save-people) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/0566131-am/leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [0435-non-overlapping-intervals](https://github.com/0566131-am/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0517-super-washing-machines](https://github.com/0566131-am/leetcode/tree/master/0517-super-washing-machines) |
 ## Divide and Conquer
 |  |
 | ------- |
