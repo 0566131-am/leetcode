@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0201-bitwise-and-of-numbers-range](https://github.com/0566131-am/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/0566131-am/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [0461-hamming-distance](https://github.com/0566131-am/leetcode/tree/master/0461-hamming-distance) |
+| [0779-k-th-symbol-in-grammar](https://github.com/0566131-am/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Array
 |  |
 | ------- |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/0566131-am/leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/0566131-am/leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/0566131-am/leetcode/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/0566131-am/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Recursion
 |  |
 | ------- |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/0566131-am/leetcode/tree/master/0231-power-of-two) |
 | [0143-reorder-list](https://github.com/0566131-am/leetcode/tree/master/0143-reorder-list) |
 | [0509-fibonacci-number](https://github.com/0566131-am/leetcode/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/0566131-am/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Greedy
 |  |
 | ------- |
