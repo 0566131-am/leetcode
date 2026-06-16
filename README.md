@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/0566131-am/leetcode/tree/master/1929-concatenation-of-array) |
 | [0867-transpose-matrix](https://github.com/0566131-am/leetcode/tree/master/0867-transpose-matrix) |
 | [3838-weighted-word-mapping](https://github.com/0566131-am/leetcode/tree/master/3838-weighted-word-mapping) |
+| [3612-process-string-with-special-operations-i](https://github.com/0566131-am/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 ## Memoization
 |  |
 | ------- |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/0566131-am/leetcode/tree/master/0402-remove-k-digits) |
 | [3340-check-balanced-string](https://github.com/0566131-am/leetcode/tree/master/3340-check-balanced-string) |
 | [3838-weighted-word-mapping](https://github.com/0566131-am/leetcode/tree/master/3838-weighted-word-mapping) |
+| [3612-process-string-with-special-operations-i](https://github.com/0566131-am/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 ## Queue
 |  |
 | ------- |
