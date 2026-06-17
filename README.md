@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3838-weighted-word-mapping](https://github.com/0566131-am/leetcode/tree/master/3838-weighted-word-mapping) |
 | [3612-process-string-with-special-operations-i](https://github.com/0566131-am/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/0566131-am/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3614-process-string-with-special-operations-ii](https://github.com/0566131-am/leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3340-check-balanced-string](https://github.com/0566131-am/leetcode/tree/master/3340-check-balanced-string) |
 | [3838-weighted-word-mapping](https://github.com/0566131-am/leetcode/tree/master/3838-weighted-word-mapping) |
 | [3612-process-string-with-special-operations-i](https://github.com/0566131-am/leetcode/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/0566131-am/leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 ## Queue
 |  |
 | ------- |
