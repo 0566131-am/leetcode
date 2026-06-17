@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/0566131-am/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [0461-hamming-distance](https://github.com/0566131-am/leetcode/tree/master/0461-hamming-distance) |
 | [0779-k-th-symbol-in-grammar](https://github.com/0566131-am/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
+| [0078-subsets](https://github.com/0566131-am/leetcode/tree/master/0078-subsets) |
 ## Array
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0517-super-washing-machines](https://github.com/0566131-am/leetcode/tree/master/0517-super-washing-machines) |
 | [0135-candy](https://github.com/0566131-am/leetcode/tree/master/0135-candy) |
 | [0621-task-scheduler](https://github.com/0566131-am/leetcode/tree/master/0621-task-scheduler) |
+| [0078-subsets](https://github.com/0566131-am/leetcode/tree/master/0078-subsets) |
 ## Hash Table
 |  |
 | ------- |
@@ -656,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1980-find-unique-binary-string](https://github.com/0566131-am/leetcode/tree/master/1980-find-unique-binary-string) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/0566131-am/leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [0078-subsets](https://github.com/0566131-am/leetcode/tree/master/0078-subsets) |
 ## Trie
 |  |
 | ------- |
