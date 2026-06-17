@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/0566131-am/leetcode/tree/master/0135-candy) |
 | [0621-task-scheduler](https://github.com/0566131-am/leetcode/tree/master/0621-task-scheduler) |
 | [0078-subsets](https://github.com/0566131-am/leetcode/tree/master/0078-subsets) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/0566131-am/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/0566131-am/leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/0566131-am/leetcode/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/0566131-am/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/0566131-am/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Recursion
 |  |
 | ------- |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/0566131-am/leetcode/tree/master/0143-reorder-list) |
 | [0509-fibonacci-number](https://github.com/0566131-am/leetcode/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/0566131-am/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/0566131-am/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Greedy
 |  |
 | ------- |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/0566131-am/leetcode/tree/master/0867-transpose-matrix) |
 | [3838-weighted-word-mapping](https://github.com/0566131-am/leetcode/tree/master/3838-weighted-word-mapping) |
 | [3612-process-string-with-special-operations-i](https://github.com/0566131-am/leetcode/tree/master/3612-process-string-with-special-operations-i) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/0566131-am/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Memoization
 |  |
 | ------- |
@@ -500,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-number-of-recent-calls](https://github.com/0566131-am/leetcode/tree/master/0933-number-of-recent-calls) |
 | [0232-implement-queue-using-stacks](https://github.com/0566131-am/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/0566131-am/leetcode/tree/master/0239-sliding-window-maximum) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/0566131-am/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Binary Search
 |  |
 | ------- |
