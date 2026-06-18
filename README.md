@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/0566131-am/leetcode/tree/master/0621-task-scheduler) |
 | [0078-subsets](https://github.com/0566131-am/leetcode/tree/master/0078-subsets) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/0566131-am/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [0039-combination-sum](https://github.com/0566131-am/leetcode/tree/master/0039-combination-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -668,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/0566131-am/leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [0078-subsets](https://github.com/0566131-am/leetcode/tree/master/0078-subsets) |
 | [0077-combinations](https://github.com/0566131-am/leetcode/tree/master/0077-combinations) |
+| [0039-combination-sum](https://github.com/0566131-am/leetcode/tree/master/0039-combination-sum) |
 ## Trie
 |  |
 | ------- |
