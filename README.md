@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/0566131-am/leetcode/tree/master/0461-hamming-distance) |
 | [0779-k-th-symbol-in-grammar](https://github.com/0566131-am/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0078-subsets](https://github.com/0566131-am/leetcode/tree/master/0078-subsets) |
+| [0980-unique-paths-iii](https://github.com/0566131-am/leetcode/tree/master/0980-unique-paths-iii) |
 ## Array
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/0566131-am/leetcode/tree/master/0039-combination-sum) |
 | [1732-find-the-highest-altitude](https://github.com/0566131-am/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [0046-permutations](https://github.com/0566131-am/leetcode/tree/master/0046-permutations) |
+| [0980-unique-paths-iii](https://github.com/0566131-am/leetcode/tree/master/0980-unique-paths-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/0566131-am/leetcode/tree/master/0130-surrounded-regions) |
 | [0994-rotting-oranges](https://github.com/0566131-am/leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/0566131-am/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [0980-unique-paths-iii](https://github.com/0566131-am/leetcode/tree/master/0980-unique-paths-iii) |
 ## Database
 |  |
 | ------- |
@@ -680,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/0566131-am/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0282-expression-add-operators](https://github.com/0566131-am/leetcode/tree/master/0282-expression-add-operators) |
 | [0046-permutations](https://github.com/0566131-am/leetcode/tree/master/0046-permutations) |
+| [0980-unique-paths-iii](https://github.com/0566131-am/leetcode/tree/master/0980-unique-paths-iii) |
 ## Trie
 |  |
 | ------- |
