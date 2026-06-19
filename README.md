@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/0566131-am/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [0039-combination-sum](https://github.com/0566131-am/leetcode/tree/master/0039-combination-sum) |
 | [1732-find-the-highest-altitude](https://github.com/0566131-am/leetcode/tree/master/1732-find-the-highest-altitude) |
+| [0046-permutations](https://github.com/0566131-am/leetcode/tree/master/0046-permutations) |
 ## Hash Table
 |  |
 | ------- |
@@ -678,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/0566131-am/leetcode/tree/master/0039-combination-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/0566131-am/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0282-expression-add-operators](https://github.com/0566131-am/leetcode/tree/master/0282-expression-add-operators) |
+| [0046-permutations](https://github.com/0566131-am/leetcode/tree/master/0046-permutations) |
 ## Trie
 |  |
 | ------- |
