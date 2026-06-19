@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/0566131-am/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [0046-permutations](https://github.com/0566131-am/leetcode/tree/master/0046-permutations) |
 | [0980-unique-paths-iii](https://github.com/0566131-am/leetcode/tree/master/0980-unique-paths-iii) |
+| [0079-word-search](https://github.com/0566131-am/leetcode/tree/master/0079-word-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/0566131-am/leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/0566131-am/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [0980-unique-paths-iii](https://github.com/0566131-am/leetcode/tree/master/0980-unique-paths-iii) |
+| [0079-word-search](https://github.com/0566131-am/leetcode/tree/master/0079-word-search) |
 ## Database
 |  |
 | ------- |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/0566131-am/leetcode/tree/master/0547-number-of-provinces) |
 | [0200-number-of-islands](https://github.com/0566131-am/leetcode/tree/master/0200-number-of-islands) |
 | [0130-surrounded-regions](https://github.com/0566131-am/leetcode/tree/master/0130-surrounded-regions) |
+| [0079-word-search](https://github.com/0566131-am/leetcode/tree/master/0079-word-search) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -508,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3614-process-string-with-special-operations-ii](https://github.com/0566131-am/leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/0566131-am/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0282-expression-add-operators](https://github.com/0566131-am/leetcode/tree/master/0282-expression-add-operators) |
+| [0079-word-search](https://github.com/0566131-am/leetcode/tree/master/0079-word-search) |
 ## Queue
 |  |
 | ------- |
@@ -684,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/0566131-am/leetcode/tree/master/0282-expression-add-operators) |
 | [0046-permutations](https://github.com/0566131-am/leetcode/tree/master/0046-permutations) |
 | [0980-unique-paths-iii](https://github.com/0566131-am/leetcode/tree/master/0980-unique-paths-iii) |
+| [0079-word-search](https://github.com/0566131-am/leetcode/tree/master/0079-word-search) |
 ## Trie
 |  |
 | ------- |
