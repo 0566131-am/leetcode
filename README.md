@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/0566131-am/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/0566131-am/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/0566131-am/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [0282-expression-add-operators](https://github.com/0566131-am/leetcode/tree/master/0282-expression-add-operators) |
 ## Recursion
 |  |
 | ------- |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-process-string-with-special-operations-i](https://github.com/0566131-am/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/0566131-am/leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/0566131-am/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0282-expression-add-operators](https://github.com/0566131-am/leetcode/tree/master/0282-expression-add-operators) |
 ## Queue
 |  |
 | ------- |
@@ -673,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/0566131-am/leetcode/tree/master/0077-combinations) |
 | [0039-combination-sum](https://github.com/0566131-am/leetcode/tree/master/0039-combination-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/0566131-am/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0282-expression-add-operators](https://github.com/0566131-am/leetcode/tree/master/0282-expression-add-operators) |
 ## Trie
 |  |
 | ------- |
