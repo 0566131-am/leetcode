@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/0566131-am/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/0566131-am/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/0566131-am/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0322-coin-change](https://github.com/0566131-am/leetcode/tree/master/0322-coin-change) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/0566131-am/leetcode/tree/master/0980-unique-paths-iii) |
 | [0079-word-search](https://github.com/0566131-am/leetcode/tree/master/0079-word-search) |
 | [0051-n-queens](https://github.com/0566131-am/leetcode/tree/master/0051-n-queens) |
+| [0322-coin-change](https://github.com/0566131-am/leetcode/tree/master/0322-coin-change) |
 ## Hash Table
 |  |
 | ------- |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/0566131-am/leetcode/tree/master/0130-surrounded-regions) |
 | [0994-rotting-oranges](https://github.com/0566131-am/leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/0566131-am/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [0322-coin-change](https://github.com/0566131-am/leetcode/tree/master/0322-coin-change) |
 ## String
 |  |
 | ------- |
