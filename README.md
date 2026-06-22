@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/0566131-am/leetcode/tree/master/0079-word-search) |
 | [0051-n-queens](https://github.com/0566131-am/leetcode/tree/master/0051-n-queens) |
 | [0322-coin-change](https://github.com/0566131-am/leetcode/tree/master/0322-coin-change) |
+| [1833-maximum-ice-cream-bars](https://github.com/0566131-am/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Hash Table
 |  |
 | ------- |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0517-super-washing-machines](https://github.com/0566131-am/leetcode/tree/master/0517-super-washing-machines) |
 | [0135-candy](https://github.com/0566131-am/leetcode/tree/master/0135-candy) |
 | [0621-task-scheduler](https://github.com/0566131-am/leetcode/tree/master/0621-task-scheduler) |
+| [1833-maximum-ice-cream-bars](https://github.com/0566131-am/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/0566131-am/leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [0435-non-overlapping-intervals](https://github.com/0566131-am/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/0566131-am/leetcode/tree/master/0621-task-scheduler) |
+| [1833-maximum-ice-cream-bars](https://github.com/0566131-am/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Geometry
 |  |
 | ------- |
@@ -618,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/0566131-am/leetcode/tree/master/0561-array-partition) |
+| [1833-maximum-ice-cream-bars](https://github.com/0566131-am/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Linked List
 |  |
 | ------- |
