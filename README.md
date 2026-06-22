@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2251-number-of-flowers-in-full-bloom](https://github.com/0566131-am/leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [0621-task-scheduler](https://github.com/0566131-am/leetcode/tree/master/0621-task-scheduler) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/0566131-am/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1189-maximum-number-of-balloons](https://github.com/0566131-am/leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## Matrix
 |  |
 | ------- |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/0566131-am/leetcode/tree/master/0169-majority-element) |
 | [2833-furthest-point-from-origin](https://github.com/0566131-am/leetcode/tree/master/2833-furthest-point-from-origin) |
 | [0621-task-scheduler](https://github.com/0566131-am/leetcode/tree/master/0621-task-scheduler) |
+| [1189-maximum-number-of-balloons](https://github.com/0566131-am/leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## Simulation
 |  |
 | ------- |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/0566131-am/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0282-expression-add-operators](https://github.com/0566131-am/leetcode/tree/master/0282-expression-add-operators) |
 | [0079-word-search](https://github.com/0566131-am/leetcode/tree/master/0079-word-search) |
+| [1189-maximum-number-of-balloons](https://github.com/0566131-am/leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## Queue
 |  |
 | ------- |
