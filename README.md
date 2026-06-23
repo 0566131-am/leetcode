@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/0566131-am/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0322-coin-change](https://github.com/0566131-am/leetcode/tree/master/0322-coin-change) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/0566131-am/leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
+| [1143-longest-common-subsequence](https://github.com/0566131-am/leetcode/tree/master/1143-longest-common-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/0566131-am/leetcode/tree/master/0282-expression-add-operators) |
 | [0079-word-search](https://github.com/0566131-am/leetcode/tree/master/0079-word-search) |
 | [1189-maximum-number-of-balloons](https://github.com/0566131-am/leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1143-longest-common-subsequence](https://github.com/0566131-am/leetcode/tree/master/1143-longest-common-subsequence) |
 ## Queue
 |  |
 | ------- |
