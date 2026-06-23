@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/0566131-am/leetcode/tree/master/0322-coin-change) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/0566131-am/leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [1143-longest-common-subsequence](https://github.com/0566131-am/leetcode/tree/master/1143-longest-common-subsequence) |
+| [0300-longest-increasing-subsequence](https://github.com/0566131-am/leetcode/tree/master/0300-longest-increasing-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/0566131-am/leetcode/tree/master/0051-n-queens) |
 | [0322-coin-change](https://github.com/0566131-am/leetcode/tree/master/0322-coin-change) |
 | [1833-maximum-ice-cream-bars](https://github.com/0566131-am/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [0300-longest-increasing-subsequence](https://github.com/0566131-am/leetcode/tree/master/0300-longest-increasing-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/0566131-am/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/0566131-am/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/0566131-am/leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
+| [0300-longest-increasing-subsequence](https://github.com/0566131-am/leetcode/tree/master/0300-longest-increasing-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
