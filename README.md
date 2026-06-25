@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/0566131-am/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [0300-longest-increasing-subsequence](https://github.com/0566131-am/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0134-gas-station](https://github.com/0566131-am/leetcode/tree/master/0134-gas-station) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/0566131-am/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/0566131-am/leetcode/tree/master/0621-task-scheduler) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/0566131-am/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1189-maximum-number-of-balloons](https://github.com/0566131-am/leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/0566131-am/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Matrix
 |  |
 | ------- |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/0566131-am/leetcode/tree/master/0190-reverse-bits) |
 | [0053-maximum-subarray](https://github.com/0566131-am/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/0566131-am/leetcode/tree/master/0169-majority-element) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/0566131-am/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/0566131-am/leetcode/tree/master/2833-furthest-point-from-origin) |
 | [0621-task-scheduler](https://github.com/0566131-am/leetcode/tree/master/0621-task-scheduler) |
 | [1189-maximum-number-of-balloons](https://github.com/0566131-am/leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/0566131-am/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Simulation
 |  |
 | ------- |
@@ -621,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/0566131-am/leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [1732-find-the-highest-altitude](https://github.com/0566131-am/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/0566131-am/leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/0566131-am/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String Matching
 |  |
 | ------- |
@@ -753,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/0566131-am/leetcode/tree/master/1622-fancy-sequence) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/0566131-am/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Stack
 |  |
 | ------- |
@@ -799,4 +805,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/0566131-am/leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/0566131-am/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
