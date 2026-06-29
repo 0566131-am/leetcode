@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/0566131-am/leetcode/tree/master/1143-longest-common-subsequence) |
 | [0300-longest-increasing-subsequence](https://github.com/0566131-am/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/0566131-am/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/0566131-am/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/0566131-am/leetcode/tree/master/0130-surrounded-regions) |
 | [0079-word-search](https://github.com/0566131-am/leetcode/tree/master/0079-word-search) |
 | [1631-path-with-minimum-effort](https://github.com/0566131-am/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/0566131-am/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/0566131-am/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [0322-coin-change](https://github.com/0566131-am/leetcode/tree/master/0322-coin-change) |
 | [1631-path-with-minimum-effort](https://github.com/0566131-am/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/0566131-am/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## String
 |  |
 | ------- |
@@ -746,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/0566131-am/leetcode/tree/master/0841-keys-and-rooms) |
 | [0547-number-of-provinces](https://github.com/0566131-am/leetcode/tree/master/0547-number-of-provinces) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/0566131-am/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/0566131-am/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
@@ -758,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/0566131-am/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0621-task-scheduler](https://github.com/0566131-am/leetcode/tree/master/0621-task-scheduler) |
 | [1631-path-with-minimum-effort](https://github.com/0566131-am/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/0566131-am/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Design
 |  |
 | ------- |
@@ -824,4 +829,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/0566131-am/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/0566131-am/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
