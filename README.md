@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/0566131-am/leetcode/tree/master/0134-gas-station) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/0566131-am/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [1631-path-with-minimum-effort](https://github.com/0566131-am/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/0566131-am/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
 |  |
 | ------- |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/0566131-am/leetcode/tree/master/0079-word-search) |
 | [1189-maximum-number-of-balloons](https://github.com/0566131-am/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1143-longest-common-subsequence](https://github.com/0566131-am/leetcode/tree/master/1143-longest-common-subsequence) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/0566131-am/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Queue
 |  |
 | ------- |
