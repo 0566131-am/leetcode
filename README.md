@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/0566131-am/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1189-maximum-number-of-balloons](https://github.com/0566131-am/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/0566131-am/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/0566131-am/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Matrix
 |  |
 | ------- |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/0566131-am/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/0566131-am/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [0239-sliding-window-maximum](https://github.com/0566131-am/leetcode/tree/master/0239-sliding-window-maximum) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/0566131-am/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/0566131-am/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1143-longest-common-subsequence](https://github.com/0566131-am/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/0566131-am/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/0566131-am/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Queue
 |  |
 | ------- |
