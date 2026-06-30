@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/0566131-am/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/0566131-am/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/0566131-am/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [0208-implement-trie-prefix-tree](https://github.com/0566131-am/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/0566131-am/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/0566131-am/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/0566131-am/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [0208-implement-trie-prefix-tree](https://github.com/0566131-am/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 ## Queue
 |  |
 | ------- |
@@ -734,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/0566131-am/leetcode/tree/master/0014-longest-common-prefix) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/0566131-am/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [0208-implement-trie-prefix-tree](https://github.com/0566131-am/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -773,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/0566131-am/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0933-number-of-recent-calls](https://github.com/0566131-am/leetcode/tree/master/0933-number-of-recent-calls) |
 | [0232-implement-queue-using-stacks](https://github.com/0566131-am/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0208-implement-trie-prefix-tree](https://github.com/0566131-am/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 ## Segment Tree
 |  |
 | ------- |
