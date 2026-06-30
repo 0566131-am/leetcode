@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/0566131-am/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/0566131-am/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/0566131-am/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0139-word-break](https://github.com/0566131-am/leetcode/tree/master/0139-word-break) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/0566131-am/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [1631-path-with-minimum-effort](https://github.com/0566131-am/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/0566131-am/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [0139-word-break](https://github.com/0566131-am/leetcode/tree/master/0139-word-break) |
 ## Hash Table
 |  |
 | ------- |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/0566131-am/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/0566131-am/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [0208-implement-trie-prefix-tree](https://github.com/0566131-am/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0139-word-break](https://github.com/0566131-am/leetcode/tree/master/0139-word-break) |
 ## Matrix
 |  |
 | ------- |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/0566131-am/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [0070-climbing-stairs](https://github.com/0566131-am/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/0566131-am/leetcode/tree/master/0509-fibonacci-number) |
+| [0139-word-break](https://github.com/0566131-am/leetcode/tree/master/0139-word-break) |
 ## Sorting
 |  |
 | ------- |
@@ -548,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/0566131-am/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/0566131-am/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [0208-implement-trie-prefix-tree](https://github.com/0566131-am/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0139-word-break](https://github.com/0566131-am/leetcode/tree/master/0139-word-break) |
 ## Queue
 |  |
 | ------- |
@@ -737,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/0566131-am/leetcode/tree/master/0014-longest-common-prefix) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/0566131-am/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [0208-implement-trie-prefix-tree](https://github.com/0566131-am/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0139-word-break](https://github.com/0566131-am/leetcode/tree/master/0139-word-break) |
 ## Union-Find
 |  |
 | ------- |
