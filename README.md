@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/0566131-am/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/0566131-am/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0139-word-break](https://github.com/0566131-am/leetcode/tree/master/0139-word-break) |
+| [3620-network-recovery-pathways](https://github.com/0566131-am/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/0566131-am/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [0139-word-break](https://github.com/0566131-am/leetcode/tree/master/0139-word-break) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/0566131-am/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/0566131-am/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Hash Table
 |  |
 | ------- |
@@ -590,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2251-number-of-flowers-in-full-bloom](https://github.com/0566131-am/leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [0300-longest-increasing-subsequence](https://github.com/0566131-am/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1631-path-with-minimum-effort](https://github.com/0566131-am/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [3620-network-recovery-pathways](https://github.com/0566131-am/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Two Pointers
 |  |
 | ------- |
@@ -766,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/0566131-am/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/0566131-am/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/0566131-am/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/0566131-am/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
@@ -780,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/0566131-am/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/0566131-am/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/0566131-am/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/0566131-am/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Design
 |  |
 | ------- |
@@ -849,4 +854,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/0566131-am/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/0566131-am/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/0566131-am/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/0566131-am/leetcode/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/0566131-am/leetcode/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
