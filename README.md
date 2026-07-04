@@ -474,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/0566131-am/leetcode/tree/master/0079-word-search) |
 | [1631-path-with-minimum-effort](https://github.com/0566131-am/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/0566131-am/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/0566131-am/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/0566131-am/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/0566131-am/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/0566131-am/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/0566131-am/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## String
 |  |
 | ------- |
@@ -759,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/0566131-am/leetcode/tree/master/0200-number-of-islands) |
 | [0130-surrounded-regions](https://github.com/0566131-am/leetcode/tree/master/0130-surrounded-regions) |
 | [1631-path-with-minimum-effort](https://github.com/0566131-am/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/0566131-am/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Graph Theory
 |  |
 | ------- |
@@ -770,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/0566131-am/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/0566131-am/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/0566131-am/leetcode/tree/master/3620-network-recovery-pathways) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/0566131-am/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
