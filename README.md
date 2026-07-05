@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-network-recovery-pathways](https://github.com/0566131-am/leetcode/tree/master/3620-network-recovery-pathways) |
 | [1301-number-of-paths-with-max-score](https://github.com/0566131-am/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/0566131-am/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/0566131-am/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/0566131-am/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/0566131-am/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/0566131-am/leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/0566131-am/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Database
 |  |
 | ------- |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/0566131-am/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/0566131-am/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/0566131-am/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/0566131-am/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## String
 |  |
 | ------- |
@@ -600,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/0566131-am/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1631-path-with-minimum-effort](https://github.com/0566131-am/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [3620-network-recovery-pathways](https://github.com/0566131-am/leetcode/tree/master/3620-network-recovery-pathways) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/0566131-am/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -768,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/0566131-am/leetcode/tree/master/0130-surrounded-regions) |
 | [1631-path-with-minimum-effort](https://github.com/0566131-am/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/0566131-am/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/0566131-am/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
@@ -795,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/0566131-am/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/0566131-am/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/0566131-am/leetcode/tree/master/3620-network-recovery-pathways) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/0566131-am/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Design
 |  |
 | ------- |
