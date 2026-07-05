@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/0566131-am/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/0566131-am/leetcode/tree/master/3620-network-recovery-pathways) |
 | [1301-number-of-paths-with-max-score](https://github.com/0566131-am/leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/0566131-am/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Hash Table
 |  |
 | ------- |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-process-string-with-special-operations-i](https://github.com/0566131-am/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/0566131-am/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3614-process-string-with-special-operations-ii](https://github.com/0566131-am/leetcode/tree/master/3614-process-string-with-special-operations-ii) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/0566131-am/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Memoization
 |  |
 | ------- |
@@ -626,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/0566131-am/leetcode/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/0566131-am/leetcode/tree/master/0881-boats-to-save-people) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/0566131-am/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/0566131-am/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Brainteaser
 |  |
 | ------- |
