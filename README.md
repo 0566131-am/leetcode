@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/0566131-am/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0078-subsets](https://github.com/0566131-am/leetcode/tree/master/0078-subsets) |
 | [0980-unique-paths-iii](https://github.com/0566131-am/leetcode/tree/master/0980-unique-paths-iii) |
+| [1486-xor-operation-in-an-array](https://github.com/0566131-am/leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Array
 |  |
 | ------- |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/0566131-am/leetcode/tree/master/0282-expression-add-operators) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/0566131-am/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/0566131-am/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [1486-xor-operation-in-an-array](https://github.com/0566131-am/leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Recursion
 |  |
 | ------- |
