@@ -464,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/0566131-am/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/0566131-am/leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [0204-count-primes](https://github.com/0566131-am/leetcode/tree/master/0204-count-primes) |
+| [1291-sequential-digits](https://github.com/0566131-am/leetcode/tree/master/1291-sequential-digits) |
 ## Depth-First Search
 |  |
 | ------- |
