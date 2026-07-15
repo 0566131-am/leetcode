@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/0566131-am/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/0566131-am/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/0566131-am/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [0633-sum-of-square-numbers](https://github.com/0566131-am/leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Recursion
 |  |
 | ------- |
@@ -624,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-network-recovery-pathways](https://github.com/0566131-am/leetcode/tree/master/3620-network-recovery-pathways) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/0566131-am/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/0566131-am/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [0633-sum-of-square-numbers](https://github.com/0566131-am/leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -653,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/0566131-am/leetcode/tree/master/0881-boats-to-save-people) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/0566131-am/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/0566131-am/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [0633-sum-of-square-numbers](https://github.com/0566131-am/leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Brainteaser
 |  |
 | ------- |
