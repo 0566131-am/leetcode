@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/0566131-am/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/0566131-am/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [0215-kth-largest-element-in-an-array](https://github.com/0566131-am/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/0566131-am/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Hash Table
 |  |
 | ------- |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/0566131-am/leetcode/tree/master/0139-word-break) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/0566131-am/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [1331-rank-transform-of-an-array](https://github.com/0566131-am/leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/0566131-am/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Matrix
 |  |
 | ------- |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/0566131-am/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [0633-sum-of-square-numbers](https://github.com/0566131-am/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/0566131-am/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3312-sorted-gcd-pair-queries](https://github.com/0566131-am/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Recursion
 |  |
 | ------- |
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/0566131-am/leetcode/tree/master/0621-task-scheduler) |
 | [1189-maximum-number-of-balloons](https://github.com/0566131-am/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/0566131-am/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3312-sorted-gcd-pair-queries](https://github.com/0566131-am/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Simulation
 |  |
 | ------- |
@@ -633,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/0566131-am/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/0566131-am/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [0633-sum-of-square-numbers](https://github.com/0566131-am/leetcode/tree/master/0633-sum-of-square-numbers) |
+| [3312-sorted-gcd-pair-queries](https://github.com/0566131-am/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Two Pointers
 |  |
 | ------- |
@@ -697,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3699-number-of-zigzag-arrays-i](https://github.com/0566131-am/leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/0566131-am/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/0566131-am/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/0566131-am/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## String Matching
 |  |
 | ------- |
@@ -870,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/0566131-am/leetcode/tree/master/0204-count-primes) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/0566131-am/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/0566131-am/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3312-sorted-gcd-pair-queries](https://github.com/0566131-am/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -918,4 +925,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/0566131-am/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/0566131-am/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
