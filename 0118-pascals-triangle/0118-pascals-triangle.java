@@ -1,21 +1,21 @@
+import java.util.*;
+
 class Solution {
     public List<List<Integer>> generate(int numRows) {
-      List<List<Integer>> result=new ArrayList<>();
-      for(int i=0;i<numRows;i++){
-        List<Integer> row=new ArrayList<>();
-        for(int j=0;j<=i;j++){
-            if(j==0||j==i){
-                row.add(1);
-            }
-            else
-            {
-                int value =result.get(i-1).get(j-1)+result.get(i-1).get(j);
-                row.add(value);
+        List<List<Integer>> result = new ArrayList<>();
+
+        for (int i = 0; i < numRows; i++) {
+            List<Integer> row = new ArrayList<>();
+            int c = 1;
+
+            for (int j = 0; j <= i; j++) {
+                row.add(c);
+                c = c * (i - j) / (j + 1);
             }
 
+            result.add(row);
         }
-        result.add(row);
-      }  
-      return result;
+
+        return result;
     }
 }
