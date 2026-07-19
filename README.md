@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/0566131-am/leetcode/tree/master/0621-task-scheduler) |
 | [1833-maximum-ice-cream-bars](https://github.com/0566131-am/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [0134-gas-station](https://github.com/0566131-am/leetcode/tree/master/0134-gas-station) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/0566131-am/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -604,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/0566131-am/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0139-word-break](https://github.com/0566131-am/leetcode/tree/master/0139-word-break) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/0566131-am/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/0566131-am/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Queue
 |  |
 | ------- |
@@ -877,6 +879,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/0566131-am/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0145-binary-tree-postorder-traversal](https://github.com/0566131-am/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/0566131-am/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/0566131-am/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Number Theory
 |  |
 | ------- |
@@ -892,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/0566131-am/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/0566131-am/leetcode/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/0566131-am/leetcode/tree/master/0739-daily-temperatures) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/0566131-am/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Data Stream
 |  |
 | ------- |
