@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/0566131-am/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1260-shift-2d-grid](https://github.com/0566131-am/leetcode/tree/master/1260-shift-2d-grid) |
 | [0832-flipping-an-image](https://github.com/0566131-am/leetcode/tree/master/0832-flipping-an-image) |
+| [2239-find-closest-number-to-zero](https://github.com/0566131-am/leetcode/tree/master/2239-find-closest-number-to-zero) |
 ## Hash Table
 |  |
 | ------- |
