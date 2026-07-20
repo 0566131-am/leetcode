@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/0566131-am/leetcode/tree/master/0980-unique-paths-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/0566131-am/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [0191-number-of-1-bits](https://github.com/0566131-am/leetcode/tree/master/0191-number-of-1-bits) |
+| [0832-flipping-an-image](https://github.com/0566131-am/leetcode/tree/master/0832-flipping-an-image) |
 ## Array
 |  |
 | ------- |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/0566131-am/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/0566131-am/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1260-shift-2d-grid](https://github.com/0566131-am/leetcode/tree/master/1260-shift-2d-grid) |
+| [0832-flipping-an-image](https://github.com/0566131-am/leetcode/tree/master/0832-flipping-an-image) |
 ## Hash Table
 |  |
 | ------- |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/0566131-am/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/0566131-am/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [1260-shift-2d-grid](https://github.com/0566131-am/leetcode/tree/master/1260-shift-2d-grid) |
+| [0832-flipping-an-image](https://github.com/0566131-am/leetcode/tree/master/0832-flipping-an-image) |
 ## Database
 |  |
 | ------- |
@@ -434,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/0566131-am/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/0566131-am/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [1260-shift-2d-grid](https://github.com/0566131-am/leetcode/tree/master/1260-shift-2d-grid) |
+| [0832-flipping-an-image](https://github.com/0566131-am/leetcode/tree/master/0832-flipping-an-image) |
 ## Memoization
 |  |
 | ------- |
@@ -681,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/0566131-am/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/0566131-am/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/0566131-am/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0832-flipping-an-image](https://github.com/0566131-am/leetcode/tree/master/0832-flipping-an-image) |
 ## Brainteaser
 |  |
 | ------- |
