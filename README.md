@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/0566131-am/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [0349-intersection-of-two-arrays](https://github.com/0566131-am/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/0566131-am/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1260-shift-2d-grid](https://github.com/0566131-am/leetcode/tree/master/1260-shift-2d-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/0566131-am/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/0566131-am/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/0566131-am/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [1260-shift-2d-grid](https://github.com/0566131-am/leetcode/tree/master/1260-shift-2d-grid) |
 ## Database
 |  |
 | ------- |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3614-process-string-with-special-operations-ii](https://github.com/0566131-am/leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/0566131-am/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/0566131-am/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [1260-shift-2d-grid](https://github.com/0566131-am/leetcode/tree/master/1260-shift-2d-grid) |
 ## Memoization
 |  |
 | ------- |
