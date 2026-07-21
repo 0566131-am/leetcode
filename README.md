@@ -497,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-equal-sum-grid-partition-ii](https://github.com/0566131-am/leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [0204-count-primes](https://github.com/0566131-am/leetcode/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/0566131-am/leetcode/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/0566131-am/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -616,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/0566131-am/leetcode/tree/master/0139-word-break) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/0566131-am/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/0566131-am/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/0566131-am/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Queue
 |  |
 | ------- |
