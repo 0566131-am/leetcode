@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/0566131-am/leetcode/tree/master/0832-flipping-an-image) |
 | [2239-find-closest-number-to-zero](https://github.com/0566131-am/leetcode/tree/master/2239-find-closest-number-to-zero) |
 | [0977-squares-of-a-sorted-array](https://github.com/0566131-am/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/0566131-am/leetcode/tree/master/0128-longest-consecutive-sequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/0566131-am/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/0566131-am/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [0349-intersection-of-two-arrays](https://github.com/0566131-am/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0128-longest-consecutive-sequence](https://github.com/0566131-am/leetcode/tree/master/0128-longest-consecutive-sequence) |
 ## Matrix
 |  |
 | ------- |
@@ -836,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/0566131-am/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/0566131-am/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [2685-count-the-number-of-complete-components](https://github.com/0566131-am/leetcode/tree/master/2685-count-the-number-of-complete-components) |
+| [0128-longest-consecutive-sequence](https://github.com/0566131-am/leetcode/tree/master/0128-longest-consecutive-sequence) |
 ## Graph Theory
 |  |
 | ------- |
