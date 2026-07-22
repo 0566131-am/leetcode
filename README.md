@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2239-find-closest-number-to-zero](https://github.com/0566131-am/leetcode/tree/master/2239-find-closest-number-to-zero) |
 | [0977-squares-of-a-sorted-array](https://github.com/0566131-am/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/0566131-am/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/0566131-am/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -620,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/0566131-am/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/0566131-am/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/0566131-am/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/0566131-am/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Queue
 |  |
 | ------- |
@@ -660,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/0566131-am/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [3312-sorted-gcd-pair-queries](https://github.com/0566131-am/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [0349-intersection-of-two-arrays](https://github.com/0566131-am/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/0566131-am/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -883,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1622-fancy-sequence](https://github.com/0566131-am/leetcode/tree/master/1622-fancy-sequence) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/0566131-am/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/0566131-am/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Stack
 |  |
 | ------- |
