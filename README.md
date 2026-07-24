@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/0566131-am/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [0191-number-of-1-bits](https://github.com/0566131-am/leetcode/tree/master/0191-number-of-1-bits) |
 | [0832-flipping-an-image](https://github.com/0566131-am/leetcode/tree/master/0832-flipping-an-image) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/0566131-am/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Array
 |  |
 | ------- |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/0566131-am/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/0566131-am/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/0566131-am/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/0566131-am/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/0566131-am/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3312-sorted-gcd-pair-queries](https://github.com/0566131-am/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/0566131-am/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/0566131-am/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -501,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/0566131-am/leetcode/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/0566131-am/leetcode/tree/master/1291-sequential-digits) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/0566131-am/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/0566131-am/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Depth-First Search
 |  |
 | ------- |
