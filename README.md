@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/0566131-am/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/0566131-am/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/0566131-am/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/0566131-am/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/0566131-am/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/0566131-am/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/0566131-am/leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [0628-maximum-product-of-three-numbers](https://github.com/0566131-am/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Recursion
 |  |
 | ------- |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/0566131-am/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/0566131-am/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/0566131-am/leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [0628-maximum-product-of-three-numbers](https://github.com/0566131-am/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Geometry
 |  |
 | ------- |
