@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/0566131-am/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [0349-intersection-of-two-arrays](https://github.com/0566131-am/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0128-longest-consecutive-sequence](https://github.com/0566131-am/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/0566131-am/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/0566131-am/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/0566131-am/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/0566131-am/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/0566131-am/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/0566131-am/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/0566131-am/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/0566131-am/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/0566131-am/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -633,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/0566131-am/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/0566131-am/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/0566131-am/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/0566131-am/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Queue
 |  |
 | ------- |
@@ -974,4 +978,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/0566131-am/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/0566131-am/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
