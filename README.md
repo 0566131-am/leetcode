@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/0566131-am/leetcode/tree/master/0139-word-break) |
 | [3620-network-recovery-pathways](https://github.com/0566131-am/leetcode/tree/master/3620-network-recovery-pathways) |
 | [1301-number-of-paths-with-max-score](https://github.com/0566131-am/leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [0486-predict-the-winner](https://github.com/0566131-am/leetcode/tree/master/0486-predict-the-winner) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/0566131-am/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/0566131-am/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/0566131-am/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [0486-predict-the-winner](https://github.com/0566131-am/leetcode/tree/master/0486-predict-the-winner) |
 ## Hash Table
 |  |
 | ------- |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/0566131-am/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/0566131-am/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/0566131-am/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [0486-predict-the-winner](https://github.com/0566131-am/leetcode/tree/master/0486-predict-the-winner) |
 ## Recursion
 |  |
 | ------- |
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/0566131-am/leetcode/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/0566131-am/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/0566131-am/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [0486-predict-the-winner](https://github.com/0566131-am/leetcode/tree/master/0486-predict-the-winner) |
 ## Greedy
 |  |
 | ------- |
@@ -725,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/0566131-am/leetcode/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/0566131-am/leetcode/tree/master/1086-divisor-game) |
+| [0486-predict-the-winner](https://github.com/0566131-am/leetcode/tree/master/0486-predict-the-winner) |
 ## Prefix Sum
 |  |
 | ------- |
