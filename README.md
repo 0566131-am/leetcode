@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/0566131-am/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [0486-predict-the-winner](https://github.com/0566131-am/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/0566131-am/leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/0566131-am/leetcode/tree/master/1406-stone-game-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/0566131-am/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [0486-predict-the-winner](https://github.com/0566131-am/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/0566131-am/leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/0566131-am/leetcode/tree/master/1406-stone-game-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/0566131-am/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [0486-predict-the-winner](https://github.com/0566131-am/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/0566131-am/leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/0566131-am/leetcode/tree/master/1406-stone-game-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -734,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/0566131-am/leetcode/tree/master/1086-divisor-game) |
 | [0486-predict-the-winner](https://github.com/0566131-am/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/0566131-am/leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/0566131-am/leetcode/tree/master/1406-stone-game-iii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -991,4 +995,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/0566131-am/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/0566131-am/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/0566131-am/leetcode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/0566131-am/leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
