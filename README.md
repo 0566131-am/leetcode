@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/0566131-am/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/0566131-am/leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/0566131-am/leetcode/tree/master/1406-stone-game-iii) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/0566131-am/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/0566131-am/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [1260-shift-2d-grid](https://github.com/0566131-am/leetcode/tree/master/1260-shift-2d-grid) |
 | [0832-flipping-an-image](https://github.com/0566131-am/leetcode/tree/master/0832-flipping-an-image) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/0566131-am/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Memoization
 |  |
 | ------- |
